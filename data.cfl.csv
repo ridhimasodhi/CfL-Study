@@ -1,0 +1,990 @@
+"","uuid","conn.follow.ups","age","gender","treatment.outcome","treatment.to.outcome","hub.spoke","diag.qtr","diag.mon","outcome","hfid","ep","fdc.num","cbnaat.num","follow.up.within","follow.up.within.serial","clinic.name","male","age.class","cfl"
+"1","b5c1ad62-5960-46ed-8fa8-61eed12c95d0",NA,82,"male","died",7,"hub","2019 Q4","Oct 2019",0,"117392",1,0,1,NA,NA,"st stephens",1,"6. >65",0
+"2","ae5eea46-fe8e-4def-9ebc-7d242e2bc2cc",NA,38,"male","complete",236,"hub","2019 Q4","Oct 2019",1,"117392",1,1,1,NA,NA,"st stephens",1,"4. 20-45",0
+"3","ecf6fa43-7574-4ca6-a5dd-31b0cee33888",NA,47,"female","complete",448,"hub","2019 Q4","Oct 2019",1,"117392",0,0,1,NA,NA,"st stephens",0,"5. 46-65",0
+"4","8f1435b6-af11-4fc9-b7f7-fc71d26cb88c",1,40,"male","died",356,"hub","2019 Q4","Oct 2019",0,"117392",0,0,1,"post 1 month",4,"st stephens",1,"4. 20-45",0
+"5","131a3e33-079a-4d54-8afa-00d0afb403f4",NA,17,"male","complete",260,"hub","2019 Q4","Oct 2019",1,"117392",0,0,1,NA,NA,"st stephens",1,"3. 16-19",0
+"6","c86e6fc3-62de-47d4-ae18-60d0094069c5",NA,19,"male","complete",353,"hub","2019 Q4","Oct 2019",1,"dl1050",1,1,0,NA,NA,"sir ganga ram",1,"3. 16-19",0
+"7","ed04bc44-43dd-4370-abc2-674c06b7464e",NA,22,"female","complete",298,"hub","2019 Q4","Oct 2019",1,"117392",1,0,1,NA,NA,"st stephens",0,"4. 20-45",0
+"8","57678f85-f9f9-48a5-874c-08602f3b11b4",NA,46,"male","complete",177,"hub","2019 Q4","Oct 2019",1,"117392",1,1,1,NA,NA,"st stephens",1,"5. 46-65",0
+"9","ae5fe4ac-82d0-43fa-b15f-e8625086131b",NA,6,"male","complete",354,"hub","2019 Q4","Oct 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"2. 6-15",0
+"10","5742ab4a-79f3-45c8-90c3-93f3ab898606",5,80,"female","died",38,"hub","2019 Q4","Oct 2019",0,"117392",1,0,0,"2 weeks",2,"st stephens",0,"6. >65",0
+"11","970e24d1-cdc1-4c2a-a904-97388fa00ca5",21,70,"female","complete",242,"hub","2019 Q4","Oct 2019",1,"117392",0,0,0,"2 weeks",2,"st stephens",0,"6. >65",0
+"12","a2cda347-1b92-42a3-8c5d-f93616cfa636",21,39,"female","complete",272,"hub","2019 Q4","Oct 2019",1,"117392",0,0,1,"1 week",1,"st stephens",0,"4. 20-45",0
+"13","e4bc3701-a68a-42c9-b0c5-31f25cb568ce",17,56,"male","complete",233,"hub","2019 Q4","Oct 2019",1,"117392",0,0,1,"2 weeks",2,"st stephens",1,"5. 46-65",0
+"14","61951994-eeac-495f-88c4-08ce4905d13f",NA,47,"male","complete",273,"hub","2019 Q4","Oct 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"15","f0ed2e6b-5edb-4f90-964e-7446c7ca35aa",1,80,"female","died",13,"hub","2019 Q4","Oct 2019",0,"400026",0,0,0,"2 weeks",2,"vinod karhana",0,"6. >65",0
+"16","7b8eb7e1-df0a-4585-a736-bb8906321295",20,50,"female","complete",284,"hub","2019 Q4","Oct 2019",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",0,"5. 46-65",0
+"17","69af2e88-caa2-4911-9738-34fc24678bd4",NA,46,"female","complete",271,"hub","2019 Q4","Oct 2019",1,"117392",0,0,1,NA,NA,"st stephens",0,"5. 46-65",0
+"18","34f00486-0c48-4579-aced-ccfc1ce5bc22",6,35,"female","complete",183,"hub","2019 Q4","Oct 2019",1,"117392",0,0,0,"1 week",1,"st stephens",0,"4. 20-45",0
+"19","1ed0f969-89f8-4731-9679-a439b3344174",18,23,"male","complete",348,"hub","2019 Q4","Oct 2019",1,"400026",1,0,0,"2 weeks",2,"vinod karhana",1,"4. 20-45",0
+"20","b55fe4bc-4f94-4549-8623-ff1d9850b4f9",NA,55,"female","complete",347,"hub","2019 Q4","Oct 2019",1,"dl1050",0,1,1,NA,NA,"sir ganga ram",0,"5. 46-65",0
+"21","94146b1b-ee65-41e0-a24f-f4a727458b6f",NA,56,"male","complete",262,"hub","2019 Q4","Oct 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"22","fa451dc8-8702-4fdf-856b-6d3fad600682",18,56,"male","complete",244,"hub","2019 Q4","Oct 2019",1,"400026",0,0,0,"post 1 month",4,"vinod karhana",1,"5. 46-65",0
+"23","8aba4daa-d9a0-40a4-9e62-494154c68e0a",NA,55,"female","died",7,"hub","2019 Q4","Oct 2019",0,"117392",0,0,1,NA,NA,"st stephens",0,"5. 46-65",0
+"24","7605d402-25f5-4996-a031-619d9cff1121",1,50,"female","cured",405,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"25","604e447a-0569-4f31-ba87-11204b9ff774",19,45,"female","complete",273,"hub","2019 Q4","Oct 2019",1,"117392",1,0,0,"1 week",1,"st stephens",0,"4. 20-45",0
+"26","7c633da1-75d3-4e25-90b5-ce701b5dafb8",17,65,"male","complete",246,"hub","2019 Q4","Oct 2019",1,"117392",0,0,0,"1 month",3,"st stephens",1,"5. 46-65",0
+"27","fa20cd04-7dd9-4f58-91ae-ed0909f3749c",NA,55,"female","complete",169,"hub","2019 Q4","Oct 2019",1,"117392",0,0,1,NA,NA,"st stephens",0,"5. 46-65",0
+"28","b0b6b98b-0267-4d4a-a322-7975c7784227",13,40,"male","complete",302,"hub","2019 Q4","Oct 2019",1,"117392",1,0,0,"1 month",3,"st stephens",1,"4. 20-45",0
+"29","39f2df1d-6660-4bfa-8925-dca13810a67c",2,47,"female","died",34,"hub","2019 Q4","Oct 2019",0,"117392",1,0,1,"2 weeks",2,"st stephens",0,"5. 46-65",0
+"30","09361854-eaf9-45b8-892d-d8a657fdb6f6",17,38,"male","complete",230,"hub","2019 Q4","Oct 2019",1,"400026",0,0,0,"1 week",1,"vinod karhana",1,"4. 20-45",0
+"31","be5f65d0-6709-4289-9ed8-6a152b6d957c",15,22,"male","complete",244,"hub","2019 Q4","Oct 2019",1,"400026",0,0,1,"post 1 month",4,"vinod karhana",1,"4. 20-45",0
+"32","23e20f82-89fc-4096-958e-d8829cec8f53",NA,24,"female","complete",237,"hub","2019 Q4","Oct 2019",1,"dl1050",0,1,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"33","42552c76-b010-4ff5-9ecc-39af31e7f7af",NA,33,"female","complete",332,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"34","ad06300a-e731-4d56-af3e-92f50b1992c6",NA,45,"male","complete",273,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"35","5c5aa8aa-7da4-44a8-865c-e64d1be64be9",NA,28,"male","complete",205,"hub","2019 Q4","Oct 2019",1,"dl1050",0,1,1,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"36","3b63dc8a-0356-4b3a-b229-d3e68978e453",NA,28,"female","complete",247,"hub","2019 Q4","Oct 2019",1,"dl1050",1,1,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"37","d7448f94-6059-42a6-9da4-ff8ff6d7eb61",NA,33,"female","complete",362,"hub","2019 Q4","Oct 2019",1,"dl1050",1,1,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"38","354b2e9c-906e-4651-ad72-d663f4ec6252",NA,28,"male","complete",319,"hub","2019 Q4","Oct 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"39","503cd9c5-5052-405f-aeca-5f771b84fea6",19,58,"male","complete",366,"hub","2019 Q4","Oct 2019",1,"117392",1,0,1,"1 month",3,"st stephens",1,"5. 46-65",0
+"40","aacfb484-99a5-4c5c-b63f-f80a6999b5d8",NA,14,"male","complete",366,"hub","2019 Q4","Oct 2019",1,"117392",1,0,1,NA,NA,"st stephens",1,"2. 6-15",0
+"41","47656e22-c5ab-4ea0-ae2b-31f4674c3384",3,21,"male","complete",199,"hub","2019 Q4","Oct 2019",1,"117392",0,1,0,"post 1 month",4,"st stephens",1,"4. 20-45",0
+"42","3cbcb03d-cc98-478d-9936-257707a3d4ff",NA,28,"female","complete",274,"hub","2019 Q4","Oct 2019",1,"dl1050",1,1,1,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"43","c69e4139-bc8c-468b-9398-c8f997566665",NA,43,"female","died",151,"hub","2019 Q4","Oct 2019",0,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"44","1e8c8ad0-bcb6-4500-b09e-9c0f71f75e9d",1,50,"female","complete",419,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"45","a61d7ea0-9952-4549-b0ee-dc2831ec4ec5",NA,55,"male","died",12,"hub","2019 Q4","Oct 2019",0,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"46","19502f53-f9b6-4d33-9f93-b642105d8c28",NA,77,"male","died",0,"hub","2019 Q4","Oct 2019",0,"117392",1,0,1,NA,NA,"st stephens",1,"6. >65",0
+"47","818a1031-d67d-4847-a937-2523e2302e10",7,17,"male","complete",224,"hub","2019 Q4","Oct 2019",1,"400026",0,0,0,"post 1 month",4,"vinod karhana",1,"3. 16-19",0
+"48","287864f6-30e9-4db6-b827-710d47543e4d",3,23,"female","complete",199,"hub","2019 Q4","Oct 2019",1,"400026",0,0,0,"1 month",3,"vinod karhana",0,"4. 20-45",0
+"49","e22ea905-e818-42ca-9916-003ba7d211ab",20,20,"male","complete",278,"hub","2019 Q4","Oct 2019",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",1,"4. 20-45",0
+"50","ec77d3d2-38e3-4828-9c4f-c21bec91ad06",NA,30,"female","complete",140,"hub","2019 Q4","Oct 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"51","e62519f3-6c67-4312-ad31-1f59a4a32ad8",19,48,"male","complete",277,"hub","2019 Q4","Oct 2019",1,"117392",0,0,1,"2 weeks",2,"st stephens",1,"5. 46-65",0
+"52","4485c06d-2d08-48eb-a826-df5ca52ea53f",8,54,"female","complete",307,"hub","2019 Q4","Oct 2019",1,"117392",1,0,0,"post 1 month",4,"st stephens",0,"5. 46-65",0
+"53","631c248d-7533-4c27-9383-5a8dad032c81",3,24,"female","complete",184,"hub","2019 Q4","Oct 2019",1,"400026",1,0,0,"post 1 month",4,"vinod karhana",0,"4. 20-45",0
+"54","e8019d01-c276-450e-8fd0-777153589e9a",11,44,"female","complete",213,"hub","2019 Q4","Oct 2019",1,"400026",0,0,1,"1 week",1,"vinod karhana",0,"4. 20-45",0
+"55","0d5c259e-7299-481a-9902-0dbc34ca8a51",14,18,"male","complete",244,"hub","2019 Q4","Oct 2019",1,"400026",0,0,0,"post 1 month",4,"vinod karhana",1,"3. 16-19",0
+"56","f9cca841-3e47-4a53-96d7-4f6acbec9b62",NA,27,"female","complete",334,"hub","2019 Q4","Oct 2019",1,"dl1050",0,1,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"57","f8262f89-28b2-43a8-bc52-e16a829431a5",2,65,"female","died",64,"hub","2019 Q4","Oct 2019",0,"117392",0,0,0,"1 month",3,"st stephens",0,"5. 46-65",0
+"58","6027c136-e500-40cb-a69a-fed7a0f02076",4,14,"male","complete",273,"hub","2019 Q4","Oct 2019",1,"117392",1,0,0,"post 1 month",4,"st stephens",1,"2. 6-15",0
+"59","cbdb6adf-5b70-4132-8065-25af705298ed",NA,24,"male","died",38,"hub","2019 Q4","Oct 2019",0,"117392",1,0,1,NA,NA,"st stephens",1,"4. 20-45",0
+"60","532d5408-e91e-4efb-ab80-c7cf5e4adf37",4,38,"male","lost",183,"hub","2019 Q4","Oct 2019",0,"400026",0,0,0,"2 weeks",2,"vinod karhana",1,"4. 20-45",0
+"61","57ccc186-9430-483c-9ae4-894d0c064fe8",0,4,"female","lost",56,"hub","2019 Q4","Oct 2019",0,"400026",0,0,0,"never",5,"vinod karhana",0,"1. 0-5",0
+"62","e5c6046e-5e11-4428-910a-da24496b342b",17,43,"male","complete",216,"hub","2019 Q4","Oct 2019",1,"117392",1,0,0,"1 week",1,"st stephens",1,"4. 20-45",0
+"63","716e47b6-565e-46e1-bea4-7c96b76dcc58",1,62,"male","died",23,"hub","2019 Q4","Oct 2019",0,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"64","aaff1099-fac6-42ec-978d-8e50a0ba7d77",16,63,"female","complete",247,"hub","2019 Q4","Oct 2019",1,"400026",0,0,0,"1 month",3,"vinod karhana",0,"5. 46-65",0
+"65","5d7a9aa1-2c07-4e39-ac72-b49f91d6cd57",8,24,"male","complete",255,"hub","2019 Q4","Oct 2019",1,"117392",1,0,1,"post 1 month",4,"st stephens",1,"4. 20-45",0
+"66","556d45fc-bd49-4eb8-b7c5-cc157c955248",5,20,"female","complete",247,"hub","2019 Q4","Oct 2019",1,"400026",0,0,0,"1 week",1,"vinod karhana",0,"4. 20-45",0
+"67","cd5bcec1-3b73-485a-b80d-964af6facb3b",NA,32,"female","died",1,"hub","2019 Q4","Oct 2019",0,"117392",1,0,1,NA,NA,"st stephens",0,"4. 20-45",0
+"68","363cd6f1-8571-4f15-8d5a-1c85ff954d1c",NA,15,"male","complete",193,"hub","2019 Q4","Nov 2019",1,"117392",1,0,1,NA,NA,"st stephens",1,"2. 6-15",0
+"69","109a7e7d-c80b-417f-9af5-c20520a3c1ce",NA,30,"female","complete",190,"hub","2019 Q4","Oct 2019",1,"dl1050",1,1,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"70","155472f6-29a3-400d-a179-184bcb648f80",19,16,"female","complete",262,"hub","2019 Q4","Oct 2019",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",0,"3. 16-19",0
+"71","be961188-8a1d-4911-a712-af8eaec515d7",12,17,"male","complete",188,"hub","2019 Q4","Oct 2019",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",1,"3. 16-19",0
+"72","835af415-f428-4ce9-84fe-4c6c885c5330",NA,35,"female","complete",183,"hub","2019 Q4","Oct 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"73","c7bfd49a-baa2-4fd2-ab6c-9e8a05d0dab6",19,17,"female","complete",311,"hub","2019 Q4","Oct 2019",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",0,"3. 16-19",0
+"74","caa4a5f7-ecdf-40b0-80f6-a61665794b41",NA,58,"female","complete",330,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"5. 46-65",0
+"75","e2004975-7b40-4715-a165-bf33cc92e075",NA,28,"male","complete",283,"hub","2019 Q4","Oct 2019",1,"dl1050",1,1,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"76","5e888055-4afd-4dd9-989a-dc333e690d45",NA,67,"male","died",24,"hub","2019 Q4","Oct 2019",0,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"6. >65",0
+"77","0ad04550-d8d3-448d-8da3-4c1bc8e7fd3e",NA,10,"female","died",78,"hub","2019 Q4","Oct 2019",0,"dl1050",0,0,0,NA,NA,"sir ganga ram",0,"2. 6-15",0
+"78","a51b09d2-37a6-4bef-aedb-c2c042b8fe9f",NA,52,"male","complete",425,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"79","338a9223-8632-4863-bf91-7a9e13c8f730",NA,72,"male","complete",426,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"6. >65",0
+"80","901bb84a-90e2-4e47-8887-a2015ca2857a",NA,28,"male","complete",329,"hub","2019 Q4","Oct 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"81","88f010e3-69a7-4c65-83e9-3b155c300427",3,61,"female","died",5,"hub","2019 Q4","Oct 2019",0,"117392",1,0,0,"1 week",1,"st stephens",0,"5. 46-65",0
+"82","f1f2300f-2ab1-4ae6-91b9-b3dbd9ec2f0c",15,45,"female","complete",243,"hub","2019 Q4","Oct 2019",1,"117392",0,0,1,"post 1 month",4,"st stephens",0,"4. 20-45",0
+"83","14126ea6-0c1a-4d92-ae81-bdb1d571eb3f",1,46,"male","complete",272,"hub","2019 Q4","Oct 2019",1,"dl1050",1,1,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"84","f025194b-04a6-4b4c-ad05-0d6897f3039e",NA,16,"male","complete",294,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"3. 16-19",0
+"85","227b0c65-92c9-436f-9d75-df0165ad3493",NA,55,"male","complete",305,"hub","2019 Q4","Oct 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"86","0924f3dc-5405-4149-a6b1-7318f60cd4a2",1,28,"female","complete",293,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"87","f491415b-bb11-4c33-a30f-f4f168038170",21,31,"female","complete",366,"hub","2019 Q4","Oct 2019",1,"117392",1,0,0,"post 1 month",4,"st stephens",0,"4. 20-45",0
+"88","99479378-555d-48d1-8e2f-a9bcdfe54930",NA,45,"male","complete",316,"hub","2019 Q4","Oct 2019",1,"dl1050",1,1,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"89","3889eca3-b93a-4dd9-9e15-4c34042da0f0",13,19,"male","complete",204,"hub","2019 Q4","Oct 2019",1,"400026",0,0,0,"post 1 month",4,"vinod karhana",1,"3. 16-19",0
+"90","82c3a106-916b-4a5f-bf9f-1ebecece6a41",NA,68,"male","died",7,"hub","2019 Q4","Oct 2019",0,"dl1050",0,0,1,NA,NA,"sir ganga ram",1,"6. >65",0
+"91","2c01aa92-a6ba-4709-931a-7e6aa71d466c",19,24,"male","complete",193,"hub","2019 Q4","Oct 2019",1,"400026",1,0,0,"1 week",1,"vinod karhana",1,"4. 20-45",0
+"92","0350bf6c-02a6-4671-966c-68d9e456b81e",4,7,"male","lost",423,"hub","2019 Q4","Oct 2019",0,"400026",1,0,0,"1 week",1,"vinod karhana",1,"2. 6-15",0
+"93","4d7477b0-0ab8-418b-84b5-e70b7fb61bee",17,18,"male","complete",244,"hub","2019 Q4","Oct 2019",1,"400026",0,0,1,"1 week",1,"vinod karhana",1,"3. 16-19",0
+"94","4240e367-1011-4522-9c24-8be7e5814e7e",NA,65,"male","complete",227,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"95","f7604347-dfba-4546-bce5-8095337f5676",1,12,"female","complete",445,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"2. 6-15",0
+"96","9ae0c651-c287-44ae-ba76-a88d3c564636",NA,24,"female","complete",250,"hub","2019 Q4","Oct 2019",1,"117392",1,0,0,NA,NA,"st stephens",0,"4. 20-45",0
+"97","7bf6c598-362e-4ef6-a0e7-6789ebfb7623",NA,24,"male","complete",304,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"98","73b55213-a6c3-428a-83b8-8625d64759e7",13,22,"male","complete",168,"hub","2019 Q4","Oct 2019",1,"117392",0,0,0,"2 weeks",2,"st stephens",1,"4. 20-45",0
+"99","2993995f-7bc6-4690-b8ea-72aa6f8a20ed",NA,35,"male","complete",312,"hub","2019 Q4","Nov 2019",1,"dl1050",1,1,1,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"100","49ea4e2f-bb6a-4bed-bbbc-e7378bdc1faf",16,53,"male","complete",243,"hub","2019 Q4","Oct 2019",1,"117392",0,0,0,"post 1 month",4,"st stephens",1,"5. 46-65",0
+"101","7fcbe185-d706-4b1a-a46c-31e7f74c8c80",17,38,"male","complete",223,"hub","2019 Q4","Oct 2019",1,"117392",0,0,0,"1 month",3,"st stephens",1,"4. 20-45",0
+"102","2e4ddf4e-86e4-4e76-9638-fa6cc4957280",21,13,"female","complete",365,"hub","2019 Q4","Oct 2019",1,"117392",1,0,0,"1 month",3,"st stephens",0,"2. 6-15",0
+"103","6422f603-30a6-4638-a11d-8a3aa6f6d3b1",16,45,"female","complete",303,"hub","2019 Q4","Oct 2019",1,"400026",1,0,0,"1 week",1,"vinod karhana",0,"4. 20-45",0
+"104","34a1fa34-d6e3-4622-9092-80fa31e9775f",21,24,"female","complete",243,"hub","2019 Q4","Oct 2019",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",0,"4. 20-45",0
+"105","f67c3303-4080-4047-949a-2b4d800b0093",NA,58,"male","complete",237,"hub","2019 Q4","Oct 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"106","ba431359-fe42-46b9-862c-28ff141b1598",NA,26,"male","complete",246,"hub","2019 Q4","Oct 2019",1,"dl1050",0,1,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"107","1f0a51dd-0559-4fec-a417-747224289130",NA,60,"male","complete",364,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"108","71e3ac77-6e10-4c89-a5f9-62d6a818396d",18,42,"female","complete",222,"hub","2019 Q4","Nov 2019",1,"117392",0,0,0,"2 weeks",2,"st stephens",0,"4. 20-45",0
+"109","88eb4a09-4f55-43a2-bb37-9877752723e7",5,70,"female","died",38,"hub","2019 Q4","Nov 2019",0,"400026",0,0,0,"1 week",1,"vinod karhana",0,"6. >65",0
+"110","9975c423-0a93-4990-99f4-f6b518d479fa",16,30,"female","complete",198,"hub","2019 Q4","Nov 2019",1,"400026",1,0,0,"1 week",1,"vinod karhana",0,"4. 20-45",0
+"111","b23729d4-b3c4-433e-b6bd-9745e08adb97",14,60,"female","complete",467,"hub","2019 Q4","Nov 2019",1,"400026",1,0,0,"post 1 month",4,"vinod karhana",0,"5. 46-65",0
+"112","444d0955-7724-46b0-b7fd-c294308bb38e",NA,38,"male","died",7,"hub","2019 Q4","Nov 2019",0,"117392",0,0,1,NA,NA,"st stephens",1,"4. 20-45",0
+"113","94b40c13-4b3a-433a-b6be-512e4de36f71",2,16,"male","complete",184,"hub","2019 Q4","Nov 2019",1,"117392",0,0,1,"post 1 month",4,"st stephens",1,"3. 16-19",0
+"114","a8289d2d-7436-4208-b98d-c14ec49d2d6d",NA,25,"male","complete",304,"hub","2019 Q4","Nov 2019",1,"dl1050",1,1,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"115","79ed730f-9ff3-4e1a-8f6b-61757c666da2",20,30,"female","complete",371,"hub","2019 Q4","Nov 2019",1,"400026",1,0,0,"1 week",1,"vinod karhana",0,"4. 20-45",0
+"116","7a97d6d7-41ca-421f-b902-3203d573ca26",18,9,"female","complete",243,"hub","2019 Q4","Nov 2019",1,"400026",0,0,0,"1 week",1,"vinod karhana",0,"2. 6-15",0
+"117","85e01ccb-e94b-4599-82f9-4b6265ef1e53",2,51,"male","lost",31,"hub","2019 Q4","Nov 2019",0,"400026",0,0,0,"post 1 month",4,"vinod karhana",1,"5. 46-65",0
+"118","f00c46ad-5fd4-4aec-94f6-13cb52bd1f94",12,32,"male","complete",174,"hub","2019 Q4","Oct 2019",1,"117392",1,0,0,"1 month",3,"st stephens",1,"4. 20-45",0
+"119","bf49082c-478f-4479-9995-15b8ed3ee3d9",1,18,"male","lost",7,"hub","2019 Q4","Nov 2019",0,"400026",0,0,0,"1 month",3,"vinod karhana",1,"3. 16-19",0
+"120","4eb8c400-9fa3-4f33-a632-197fa5c8f58b",20,78,"male","complete",287,"hub","2019 Q4","Oct 2019",1,"117392",0,0,1,"2 weeks",2,"st stephens",1,"6. >65",0
+"121","12bdc184-74fd-4056-a64f-516b638433ea",NA,85,"male","complete",409,"hub","2019 Q4","Nov 2019",1,"117392",1,0,1,NA,NA,"st stephens",1,"6. >65",0
+"122","2362b0e0-50a1-4e98-98a1-6dd43dfffdc7",NA,34,"male","complete",336,"hub","2019 Q4","Nov 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"123","024b5f78-f74a-4dfb-a5bb-98e3b21eca57",NA,65,"male","complete",228,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"124","f4e2b2d9-02e6-410e-bad7-43cf7961e37d",NA,55,"female","complete",385,"hub","2019 Q4","Oct 2019",1,"dl1050",0,1,1,NA,NA,"sir ganga ram",0,"5. 46-65",0
+"125","88c27598-7990-4351-92b3-b5b20d4b98e9",3,57,"female","complete",412,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"126","c97a7476-af31-49a7-a0b3-7f13f91aee22",19,49,"female","complete",263,"hub","2019 Q4","Nov 2019",1,"117392",1,0,0,"2 weeks",2,"st stephens",0,"5. 46-65",0
+"127","2ea3c442-322a-40ef-b364-5e799704c5e0",0,14,"male","complete",412,"hub","2019 Q4","Nov 2019",1,"117392",1,0,1,"never",5,"st stephens",1,"2. 6-15",0
+"128","8ebb4ca7-1567-4b51-a78e-efd2e44ee78f",18,38,"male","complete",223,"hub","2019 Q4","Nov 2019",1,"400026",0,0,0,"1 week",1,"vinod karhana",1,"4. 20-45",0
+"129","f288f6e8-4f54-4f04-a671-a5e01623dd9f",1,55,"female","lost",3,"hub","2019 Q4","Nov 2019",0,"400026",0,0,0,"1 week",1,"vinod karhana",0,"5. 46-65",0
+"130","03feb4a1-6eaa-4fd1-a02e-e432309b9dd6",NA,19,"female","complete",186,"hub","2019 Q4","Oct 2019",1,"dl1050",0,1,1,NA,NA,"sir ganga ram",0,"3. 16-19",0
+"131","8acecb87-4b0a-4e0a-ae3b-adb8bb1bc163",NA,72,"male","died",227,"hub","2019 Q4","Nov 2019",0,"117392",0,1,1,NA,NA,"st stephens",1,"6. >65",0
+"132","610587f8-b85b-4e13-8b67-22697b70a762",19,12,"female","complete",243,"hub","2019 Q4","Nov 2019",1,"117392",0,0,1,"1 week",1,"st stephens",0,"2. 6-15",0
+"133","ec5d7d61-0880-4cab-8ce1-4ed73b13ef39",NA,45,"male","complete",405,"hub","2019 Q4","Nov 2019",1,"117392",0,0,1,NA,NA,"st stephens",1,"4. 20-45",0
+"134","e6be00ff-f5fc-427a-a207-d53b9c32cd7a",NA,52,"male","complete",314,"hub","2019 Q4","Nov 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"135","c7e6fc76-72da-45e1-8271-31a7d131424c",NA,29,"male","complete",225,"hub","2019 Q4","Nov 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"136","e3fed649-d679-4f30-bd11-3ea2c83eba0d",9,22,"male","complete",305,"hub","2019 Q4","Nov 2019",1,"117392",0,0,1,"post 1 month",4,"st stephens",1,"4. 20-45",0
+"137","273d6ced-8c0e-4f1e-b7d5-fe55006cd4a5",16,13,"female","complete",188,"hub","2019 Q4","Nov 2019",1,"117392",1,0,1,"1 week",1,"st stephens",0,"2. 6-15",0
+"138","55c1aabf-3c25-457e-b168-f2bcba5b0232",NA,24,"male","complete",297,"hub","2019 Q4","Nov 2019",1,"117392",0,0,1,NA,NA,"st stephens",1,"4. 20-45",0
+"139","d08aecc9-0fd5-4631-b43e-36d7b5f07705",17,26,"male","complete",213,"hub","2019 Q4","Nov 2019",1,"117392",0,0,1,"1 month",3,"st stephens",1,"4. 20-45",0
+"140","3f9d4727-c7ea-4950-8f6f-d45316654af9",1,30,"female","lost",88,"hub","2019 Q4","Nov 2019",0,"117392",1,0,1,"post 1 month",4,"st stephens",0,"4. 20-45",0
+"141","7f7ab871-2d5f-4631-8a3b-830a36f9c550",NA,26,"female","complete",243,"hub","2019 Q4","Nov 2019",1,"400026",0,0,0,NA,NA,"vinod karhana",0,"4. 20-45",0
+"142","eae5727f-b126-4c38-9f79-86472d55fcbd",16,42,"male","complete",265,"hub","2019 Q4","Nov 2019",1,"400026",0,0,0,"1 month",3,"vinod karhana",1,"4. 20-45",0
+"143","e8d34570-8e6b-4675-a425-35b9032bb43d",1,32,"female","lost",65,"hub","2019 Q4","Nov 2019",0,"400026",1,0,0,"post 1 month",4,"vinod karhana",0,"4. 20-45",0
+"144","95d97bdb-78b5-489f-b92b-8bec0570f7ef",22,36,"male","complete",243,"hub","2019 Q4","Nov 2019",1,"400026",0,0,0,"1 week",1,"vinod karhana",1,"4. 20-45",0
+"145","af21dbd4-fc8a-406a-b39a-552660d64278",19,26,"male","lost",263,"hub","2019 Q4","Nov 2019",0,"400026",1,0,0,"1 week",1,"vinod karhana",1,"4. 20-45",0
+"146","51f80a90-e888-4c17-a7e3-c247f24a3241",NA,20,"male","complete",404,"hub","2019 Q4","Nov 2019",1,"117392",1,0,1,NA,NA,"st stephens",1,"4. 20-45",0
+"147","58643893-eda9-4faa-9347-339680534013",16,23,"female","complete",266,"hub","2019 Q4","Nov 2019",1,"117392",1,0,1,"post 1 month",4,"st stephens",0,"4. 20-45",0
+"148","e972b2f4-97e9-4a75-955a-f13519f91e34",NA,40,"male","died",0,"hub","2019 Q4","Dec 2019",0,"117392",1,0,1,NA,NA,"st stephens",1,"4. 20-45",0
+"149","79b314be-2b9b-4eb8-8280-4d5c0c89f6af",NA,58,"male","complete",403,"hub","2019 Q4","Nov 2019",1,"117392",0,0,1,NA,NA,"st stephens",1,"5. 46-65",0
+"150","8d38e627-82eb-4308-a464-ec34031a31d2",16,21,"female","complete",279,"hub","2019 Q4","Nov 2019",1,"400026",0,0,0,"1 week",1,"vinod karhana",0,"4. 20-45",0
+"151","63309f85-4e45-48dd-bb76-bea25daafc7a",18,31,"male","lost",233,"hub","2019 Q4","Nov 2019",0,"400026",1,0,0,"1 week",1,"vinod karhana",1,"4. 20-45",0
+"152","5c7ca28d-9e0f-4384-95ff-473000f93b2a",1,56,"female","lost",36,"hub","2019 Q4","Nov 2019",0,"400026",0,0,0,"2 weeks",2,"vinod karhana",0,"5. 46-65",0
+"153","766981a5-b73f-4b23-ac6c-e8b38585b5d4",NA,30,"female","complete",172,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"154","3f07b00b-88e3-45bb-a7d8-8c59f1e09046",1,24,"male","complete",359,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"155","a8e11b95-b4ee-475d-80eb-626d862f2d1d",NA,66,"female","complete",214,"hub","2019 Q4","Nov 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",0,"6. >65",0
+"156","0eeb6c02-6913-42ab-96c4-71dc7f8c3dc9",12,54,"male","complete",307,"hub","2019 Q4","Nov 2019",1,"400026",1,0,0,"1 week",1,"vinod karhana",1,"5. 46-65",0
+"157","36c74d30-6974-42dd-9163-67fa567409aa",21,17,"female","complete",243,"hub","2019 Q4","Nov 2019",1,"400026",0,0,0,"1 week",1,"vinod karhana",0,"3. 16-19",0
+"158","07b6a138-5108-4378-b5b4-bdac05221925",10,34,"female","complete",168,"hub","2019 Q4","Nov 2019",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",0,"4. 20-45",0
+"159","78b9c63c-6197-46f3-82ff-5ceebc290b6f",NA,29,"male","complete",281,"hub","2019 Q4","Nov 2019",1,"dl1050",1,1,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"160","7025e77c-68b1-4c5d-a1f4-40803484010f",NA,23,"female","complete",231,"hub","2019 Q4","Oct 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"161","0021f276-141a-4210-985d-dafcdddbf972",NA,85,"male","complete",168,"hub","2019 Q4","Nov 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"6. >65",0
+"162","d11e0626-64f0-48d2-974d-5f7b65e96949",NA,41,"male","complete",187,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"163","3310019e-c3da-4334-9718-11fed9059312",NA,38,"male","complete",367,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"164","8f695cd3-7c9a-49b3-b44f-ed480f9c942e",NA,23,"male","complete",209,"hub","2019 Q4","Nov 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"165","2dc2039a-ca4d-4ea6-bef3-bc777b8a0de3",20,27,"female","complete",335,"hub","2019 Q4","Nov 2019",1,"117392",1,0,1,"post 1 month",4,"st stephens",0,"4. 20-45",0
+"166","45888627-14fe-45f5-bf30-723a26be48e8",1,24,"female","lost",50,"hub","2019 Q4","Nov 2019",0,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"167","b4b2075a-bee3-43b0-85eb-14122519b5cf",20,21,"female","complete",286,"hub","2019 Q4","Nov 2019",1,"117392",1,0,0,"1 week",1,"st stephens",0,"4. 20-45",0
+"168","50111d6a-be05-4a16-902c-d874912b588d",17,60,"female","complete",203,"hub","2019 Q4","Nov 2019",1,"117392",1,0,1,"2 weeks",2,"st stephens",0,"5. 46-65",0
+"169","7613704b-3667-49d4-b1d7-8a0fd0cf7cfb",6,39,"male","lost",56,"hub","2019 Q4","Nov 2019",0,"117392",0,0,0,"2 weeks",2,"st stephens",1,"4. 20-45",0
+"170","68bdeb57-6ad9-488a-9947-b570619a47d7",NA,22,"male","complete",269,"hub","2019 Q4","Nov 2019",1,"117392",0,0,1,NA,NA,"st stephens",1,"4. 20-45",0
+"171","6132794c-5470-47db-9d3c-322bd71b3528",NA,38,"male","complete",274,"hub","2019 Q4","Nov 2019",1,"117392",0,0,1,NA,NA,"st stephens",1,"4. 20-45",0
+"172","5fd5db7a-409e-4314-bf39-00574ed4c36a",NA,29,"female","complete",268,"hub","2019 Q4","Nov 2019",1,"dl1050",1,1,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"173","82c16836-2df9-4f14-bf6b-c04a7a68be30",NA,30,"male","complete",198,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"174","a2608814-4c41-497e-a407-2cba93eed1bb",NA,36,"male","died",6,"hub","2019 Q4","Nov 2019",0,"117392",1,0,1,NA,NA,"st stephens",1,"4. 20-45",0
+"175","8909a6e9-edd7-4b34-8e87-6c0c81dc0f96",16,38,"male","complete",278,"hub","2019 Q4","Nov 2019",1,"400026",0,0,0,"1 week",1,"vinod karhana",1,"4. 20-45",0
+"176","4538eb72-740d-4318-8152-6040c29454b6",7,36,"female","complete",222,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"177","ebc46528-1c4a-404c-8b7f-10fad0a522d0",18,54,"female","complete",283,"hub","2019 Q4","Nov 2019",1,"400026",0,0,0,"1 week",1,"vinod karhana",0,"5. 46-65",0
+"178","43a246b5-fa14-4c54-9ac6-94573b845e8b",NA,32,"male","complete",335,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"179","f0f360ee-8c2d-4845-a9f6-6e91cce1f18c",NA,44,"female","complete",292,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"180","adccce7a-bc19-4d38-b903-97be106de1b9",22,38,"male","complete",242,"hub","2019 Q4","Nov 2019",1,"400026",0,0,0,"1 week",1,"vinod karhana",1,"4. 20-45",0
+"181","a667f7cb-3b4e-4b14-9758-0e98dcf48a6f",NA,48,"female","complete",224,"hub","2019 Q4","Nov 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",0,"5. 46-65",0
+"182","d982d5a7-314d-4c17-b238-ff65a779e669",NA,52,"female","complete",168,"hub","2019 Q4","Nov 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",0,"5. 46-65",0
+"183","bb35d2ac-a7df-4bb2-b83c-7e57262a70d7",NA,39,"male","complete",330,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"184","aca9871a-6351-4bb7-bc29-05b3524b2b18",NA,37,"male","complete",268,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"185","fc429c9d-e5e6-4db5-b308-5aa76be382c9",NA,67,"male","died",3,"hub","2019 Q4","Nov 2019",0,"400026",0,0,0,NA,NA,"vinod karhana",1,"6. >65",0
+"186","e2539534-ca05-4837-b970-b142157b6a7a",12,30,"male","complete",284,"hub","2019 Q4","Nov 2019",1,"117392",0,0,1,"post 1 month",4,"st stephens",1,"4. 20-45",0
+"187","b98ed18b-df38-4d65-9ad1-d3a31edf2a27",19,37,"female","complete",276,"hub","2019 Q4","Nov 2019",1,"400026",0,0,0,"1 week",1,"vinod karhana",0,"4. 20-45",0
+"188","0e599967-e85a-4105-b5ad-63edf50891c5",13,19,"male","complete",199,"hub","2019 Q4","Nov 2019",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",1,"3. 16-19",0
+"189","5dc59e30-fe87-4de2-8347-e95a479ca384",15,37,"female","complete",179,"hub","2019 Q4","Nov 2019",1,"400026",0,0,0,"1 week",1,"vinod karhana",0,"4. 20-45",0
+"190","29ad72f7-b5c6-4434-adfd-82a84658cd29",2,50,"male","complete",396,"hub","2019 Q4","Nov 2019",1,"117392",0,1,0,"post 1 month",4,"st stephens",1,"5. 46-65",0
+"191","aca59913-81b9-4bc9-befc-84f217098c37",15,25,"female","complete",274,"hub","2019 Q4","Nov 2019",1,"400026",0,0,0,"post 1 month",4,"vinod karhana",0,"4. 20-45",0
+"192","7af5265d-8d17-486e-b445-937a46a180e0",12,13,"male","complete",244,"hub","2019 Q4","Nov 2019",1,"400026",0,0,0,"post 1 month",4,"vinod karhana",1,"2. 6-15",0
+"193","c06418e9-675e-43b5-a960-88fc8214c1c7",NA,34,"male","complete",277,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"194","9e00a146-2d05-4fa4-aea1-2832e742f1f7",NA,73,"female","complete",376,"hub","2019 Q4","Nov 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",0,"6. >65",0
+"195","ac3b294d-05a9-4e26-b54a-12348227e443",NA,34,"male","complete",336,"hub","2019 Q4","Nov 2019",1,"dl1050",1,1,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"196","174fc427-9557-47de-b8d7-66cdb3998fbc",NA,49,"male","complete",307,"hub","2019 Q4","Nov 2019",1,"117392",1,0,1,NA,NA,"st stephens",1,"5. 46-65",0
+"197","e34705f0-cdbb-4007-9963-e275d610963e",NA,36,"male","died",86,"hub","2019 Q4","Nov 2019",0,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"198","c0a27e44-e00f-4bdd-a25c-171bc421ca41",NA,52,"male","complete",168,"hub","2019 Q4","Nov 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"199","8253e080-dcda-4633-b21e-85ee9f590a21",10,17,"female","complete",259,"hub","2019 Q4","Nov 2019",1,"400026",1,0,0,"post 1 month",4,"vinod karhana",0,"3. 16-19",0
+"200","e630bc11-4007-483e-a8c7-ccb0b4e988cc",NA,35,"male","complete",354,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"201","5d147ba0-6e5b-4cef-949c-8b520e11365c",NA,25,"female","complete",297,"hub","2019 Q4","Nov 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"202","fa7cbec0-e31e-4da5-ae5c-809bdd9d429b",NA,65,"male","died",40,"hub","2019 Q4","Nov 2019",0,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"203","2010278c-1b89-4374-b217-043b6104474f",NA,61,"male","complete",358,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"204","e871a1f1-bd35-4820-93fc-fd4dec6ad586",NA,57,"male","died",17,"hub","2019 Q4","Nov 2019",0,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"205","2998b0eb-6697-4d2a-bb92-5cd0bb25fecf",9,62,"female","complete",256,"hub","2019 Q4","Nov 2019",1,"400026",0,0,0,"post 1 month",4,"vinod karhana",0,"5. 46-65",0
+"206","347bf614-c6a1-403a-8ad2-75839b4df728",9,60,"male","complete",243,"hub","2019 Q4","Nov 2019",1,"117392",0,0,0,"post 1 month",4,"st stephens",1,"5. 46-65",0
+"207","066e42f6-4f87-42f1-97b5-9049f6d6e686",1,27,"male","complete",240,"hub","2019 Q4","Oct 2019",1,"117392",1,0,1,"post 1 month",4,"st stephens",1,"4. 20-45",0
+"208","144818bd-3fe9-4488-a9ab-94021a4fec66",NA,57,"male","complete",310,"hub","2019 Q4","Oct 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"209","344ad625-647e-4e3e-95c5-2481e887034e",NA,53,"female","complete",312,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"5. 46-65",0
+"210","0654a2f8-a0bd-4fc0-b4b4-27a7717870aa",NA,70,"female","complete",236,"hub","2019 Q4","Nov 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",0,"6. >65",0
+"211","598ee468-c861-452c-af93-bad155de2136",NA,36,"female","complete",298,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"212","d9225885-12d7-4fca-b82e-35940a4d5da3",NA,52,"male","complete",341,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"213","e3bc4deb-ec30-41ae-81d6-8f6f839650d8",NA,45,"female","complete",258,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"214","58307c0d-55ac-4972-ac2e-902e7e829f68",NA,36,"male","complete",323,"hub","2019 Q4","Nov 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"215","ab3ba362-b9a4-4ef6-a4d0-741432adb1e2",1,50,"male","complete",417,"hub","2019 Q4","Nov 2019",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"216","ecdfc272-bed5-4730-b9db-2cdb9ff4ff07",2,36,"female","lost",168,"hub","2019 Q4","Nov 2019",0,"400026",1,0,0,"1 week",1,"vinod karhana",0,"4. 20-45",0
+"217","439ce8d7-7588-44b5-8005-4f7e8c88311f",NA,59,"male","complete",184,"hub","2019 Q4","Nov 2019",1,"dl1050",0,0,1,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"218","1224102e-d38d-48fc-bea1-38a7ae110b48",1,65,"female","died",32,"hub","2019 Q4","Nov 2019",0,"400026",0,0,0,"post 1 month",4,"vinod karhana",0,"5. 46-65",0
+"219","5807fda1-b050-4caf-9cd5-4a357b9baa90",NA,50,"female","complete",268,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"5. 46-65",0
+"220","1bb2dde1-5307-4144-ab4e-b43ae88fdc2d",NA,38,"female","complete",332,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"221","dab0ecc0-715d-4791-a99e-6dce531f5637",NA,50,"male","complete",286,"hub","2019 Q4","Oct 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"222","549be004-d1f3-4695-ba71-63e94b13a6c3",NA,27,"female","complete",268,"hub","2019 Q4","Oct 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"223","783ea2b5-7682-4cd9-aaf0-da14cc2a2903",NA,68,"male","died",227,"hub","2019 Q4","Oct 2019",0,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"6. >65",0
+"224","8633521e-9b2f-4c0e-bf1e-fb4b0c794e26",3,70,"female","complete",399,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"6. >65",0
+"225","50772c47-00a9-4db4-bb62-80ba3de6d4ea",1,62,"male","complete",337,"hub","2019 Q4","Nov 2019",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"226","0e225f7c-9b6b-42e3-834b-b3562902a289",NA,54,"female","complete",391,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"5. 46-65",0
+"227","d4d3b76d-2a23-426a-b146-a6a1be0b9dc0",NA,53,"male","complete",276,"hub","2019 Q4","Nov 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"228","27dcd9cf-45a2-45ad-bd50-8afa5453189c",6,32,"female","complete",232,"hub","2019 Q4","Nov 2019",1,"400026",0,0,0,"post 1 month",4,"vinod karhana",0,"4. 20-45",0
+"229","2cedf2b4-9420-4669-acba-887629b25fd1",1,32,"male","complete",359,"hub","2019 Q4","Nov 2019",1,"117392",1,1,0,"post 1 month",4,"st stephens",1,"4. 20-45",0
+"230","7b7ae307-5213-4a30-b2c8-fad670955f9f",1,45,"male","died",43,"hub","2019 Q4","Nov 2019",0,"117392",0,0,0,"post 1 month",4,"st stephens",1,"4. 20-45",0
+"231","8f43200d-40a1-4f0e-a2aa-b0c50a8c94ce",12,30,"male","complete",366,"hub","2019 Q4","Nov 2019",1,"117392",1,0,0,"post 1 month",4,"st stephens",1,"4. 20-45",0
+"232","a4997310-f4a4-4c56-a2b7-8cd6dcb9c794",0,32,"male","complete",412,"hub","2019 Q4","Nov 2019",1,"117392",1,0,0,"never",5,"st stephens",1,"4. 20-45",0
+"233","bd0c9272-c1d4-4785-98f8-c031a81b1174",4,28,"female","complete",399,"hub","2019 Q4","Nov 2019",1,"117392",1,0,0,"post 1 month",4,"st stephens",0,"4. 20-45",0
+"234","68e7c7c3-c44f-452f-a7e5-432ba548f259",NA,63,"female","complete",382,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",0,"5. 46-65",0
+"235","c11f926a-76b9-466a-ae95-a0cc43533d63",5,43,"male","complete",382,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"236","cef9f841-8def-473c-86eb-cc3ead953941",NA,33,"female","complete",332,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"237","ec7f189c-4103-4ec6-a433-60af6bdab3f3",NA,41,"male","complete",239,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"238","cc5f7d14-1430-43d2-8839-5fb23e712faf",NA,69,"male","complete",171,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"6. >65",0
+"239","b94bf6a9-82ce-4466-9705-4d9470c08d36",NA,24,"male","complete",322,"hub","2019 Q4","Nov 2019",1,"dl1050",1,1,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"240","783543bd-bba5-443f-b08c-8a1e7ab5a6b5",NA,77,"male","complete",348,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"6. >65",0
+"241","2ee25e3f-f78b-4f62-ba13-2bbb2215e7ad",NA,18,"male","complete",274,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"3. 16-19",0
+"242","c0413686-4ae9-43f3-bc93-059e5f6f1d21",1,65,"male","died",56,"hub","2019 Q4","Nov 2019",0,"400026",0,0,0,"post 1 month",4,"vinod karhana",1,"5. 46-65",0
+"243","502692e1-e129-4100-899b-6edcab6e6f5a",1,21,"female","complete",397,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"244","973d9554-ef8f-41c4-a8dd-af5eab27d5a5",6,79,"male","complete",200,"hub","2019 Q4","Oct 2019",1,"117392",1,0,0,"post 1 month",4,"st stephens",1,"6. >65",0
+"245","47dbfdb0-4329-4d2a-85ea-97d7692df3ee",1,36,"female","complete",399,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"246","3db9f75e-8319-443d-aebc-9c970f440130",NA,46,"female","complete",168,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"5. 46-65",0
+"247","b3e186d1-eef7-4b99-b69c-b0ca10d6f33e",NA,26,"female","complete",276,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"248","5d130c25-5750-42a0-8d5f-f6502892a23f",1,6,"male","lost",384,"hub","2019 Q4","Dec 2019",0,"400026",0,0,0,"post 1 month",4,"vinod karhana",1,"2. 6-15",0
+"249","7926f17e-03fc-49e9-9637-451f72c70c7a",9,30,"female","complete",243,"hub","2019 Q4","Dec 2019",1,"400026",0,0,0,"post 1 month",4,"vinod karhana",0,"4. 20-45",0
+"250","fff63d31-dd51-4801-8e7c-d4013d9e01ae",NA,50,"male","complete",368,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"251","98e3f6fb-744c-47a4-8d7e-fda9b26765c9",NA,59,"male","complete",356,"hub","2019 Q4","Oct 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"252","c17ded87-f973-4d03-9d72-f3ba8156dd9c",2,18,"female","complete",436,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"3. 16-19",0
+"253","d6a208d0-3f70-42a7-8ad8-cb6842451132",NA,29,"female","complete",283,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"254","26f7c773-ba9a-46cf-81ae-190b0615102f",NA,17,"male","complete",292,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"3. 16-19",0
+"255","3bed57e1-30d7-4197-bffd-90557ddddb85",NA,37,"male","complete",264,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"256","7deb9cc8-1b36-46b9-8e72-5bf01997b970",6,48,"male","complete",259,"hub","2019 Q4","Dec 2019",1,"400026",0,0,0,"post 1 month",4,"vinod karhana",1,"5. 46-65",0
+"257","bb61693a-31f7-4f5a-9781-507f83c15b28",1,26,"female","died",52,"hub","2019 Q4","Dec 2019",0,"117392",1,0,1,"post 1 month",4,"st stephens",0,"4. 20-45",0
+"258","30c721e5-d056-4926-a87d-7ebd41ed5a50",NA,30,"female","complete",431,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"259","c1c9b27d-808b-4384-83d2-8a6717e507cd",NA,61,"male","complete",341,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"260","3ffb21ff-3cd3-41f4-932a-aa4e1cceb339",NA,26,"male","complete",243,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"261","3afc8568-fb1f-4af3-8279-de0c856ee0e7",9,13,"female","complete",343,"hub","2019 Q4","Oct 2019",1,"400026",1,0,0,"post 1 month",4,"vinod karhana",0,"2. 6-15",0
+"262","36ad9da1-4894-4c35-a6c5-b507ce097015",NA,52,"female","died",4,"hub","2019 Q4","Dec 2019",0,"117392",1,0,1,NA,NA,"st stephens",0,"5. 46-65",0
+"263","36125e25-80fb-4f0c-8066-0444fc4b5f3b",NA,27,"female","complete",177,"hub","2019 Q4","Oct 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"264","a9dd9c1e-7b1f-49af-bf54-6fc0afe45b20",NA,68,"female","died",6,"hub","2019 Q4","Dec 2019",0,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"6. >65",0
+"265","df05eebd-7106-45ca-9438-067144f4e84f",1,30,"female","lost",127,"hub","2019 Q4","Dec 2019",0,"400026",0,0,0,"post 1 month",4,"vinod karhana",0,"4. 20-45",0
+"266","be26b730-25a0-4fb5-943d-1c1e8e5768b3",NA,14,"male","died",12,"hub","2019 Q4","Dec 2019",0,"117392",1,0,1,NA,NA,"st stephens",1,"2. 6-15",0
+"267","b98e0624-6b67-4e22-b911-26ca13835bd7",6,22,"male","complete",371,"hub","2019 Q4","Dec 2019",1,"117392",1,0,1,"1 month",3,"st stephens",1,"4. 20-45",0
+"268","a4dbc704-a709-4480-978b-cc9ae9b795fb",NA,29,"female","complete",248,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"269","3feb42fb-0218-4602-85b8-1b9bd5c38a1e",NA,67,"male","complete",318,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"6. >65",0
+"270","bb73ab8c-0473-4d6b-be49-1dd802ffdc77",NA,85,"male","died",3,"hub","2019 Q4","Dec 2019",0,"117392",0,0,0,NA,NA,"st stephens",1,"6. >65",0
+"271","eb15349e-384a-4f55-b3d2-ae627cbc3fc1",2,28,"male","died",31,"hub","2019 Q4","Dec 2019",0,"117392",1,0,1,"1 month",3,"st stephens",1,"4. 20-45",0
+"272","a41804f9-ad63-4262-b1e8-c6892f465b92",NA,52,"female","complete",378,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",0,"5. 46-65",0
+"273","5ceb47eb-f86c-49d5-b178-ae19025279b8",NA,67,"male","complete",242,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"6. >65",0
+"274","513f76d7-9c8d-4d7b-ad2e-762a8b82c0fe",2,34,"female","complete",402,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"275","ac64dbe5-93cf-4f01-bbdf-525f60c45916",NA,30,"male","complete",234,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"276","2d3705b1-820b-4d83-b103-2c52c0e964b8",NA,37,"female","died",9,"hub","2019 Q4","Dec 2019",0,"117392",0,0,0,NA,NA,"st stephens",0,"4. 20-45",0
+"277","0be4d166-54e0-493a-8708-36fa3308e01c",NA,63,"male","complete",252,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"278","3eb2022c-b8fe-4af2-b607-44f67de0624a",NA,79,"male","complete",256,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"6. >65",0
+"279","870755e7-8b3c-41d4-a004-d4e1c1599daa",NA,55,"male","complete",252,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"280","8b5a9006-1313-4f49-b568-c2d5a725d7f7",NA,72,"male","complete",345,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"6. >65",0
+"281","3c06a838-23e9-4a57-a8cc-c4cfa8bc53e1",2,74,"male","lost",368,"hub","2019 Q4","Dec 2019",0,"400026",0,0,1,"post 1 month",4,"vinod karhana",1,"6. >65",0
+"282","32a70b24-038f-45be-8b94-b7e9ed8849c7",NA,31,"male","complete",256,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"283","4a83e92f-c975-45fc-a342-125685afb7b6",NA,43,"male","complete",367,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"284","0a06a985-cf8a-47b3-8932-25df4260881e",1,47,"male","complete",305,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"285","463d91c1-70b4-42d9-aa4d-38cf3539fd82",10,23,"male","complete",255,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"286","f92a2b8e-75b6-4919-bbf9-c7a76df94fc7",9,40,"male","complete",243,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"287","443ef079-c905-43c6-b829-ed5d7c6f6328",3,53,"male","complete",382,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"288","e7975524-830e-473f-99df-308870bd5e42",1,58,"male","died",15,"hub","2019 Q4","Dec 2019",0,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"289","cb77e87e-a173-4c23-bc24-cf3cf0ca345c",22,69,"female","complete",292,"hub","2019 Q4","Dec 2019",1,"400550",0,0,0,"1 month",3,"st stephens",0,"6. >65",0
+"290","0e6874e3-8bfc-43c1-98ba-86ccc67ce249",7,14,"female","complete",223,"hub","2019 Q4","Dec 2019",1,"dl1050",0,1,0,"post 1 month",4,"sir ganga ram",0,"2. 6-15",0
+"291","beaba958-0497-45cb-9aff-10b9747587e9",1,57,"male","died",28,"hub","2019 Q4","Dec 2019",0,"dl1050",1,0,0,"1 month",3,"sir ganga ram",1,"5. 46-65",0
+"292","84a119f6-1b8e-4373-b23d-14286515a50e",NA,36,"female","complete",369,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"293","2072d1b8-f21f-4ad2-8591-c1bf8f24d3b0",NA,49,"female","complete",344,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"5. 46-65",0
+"294","31ba40b4-4352-4bcf-9e74-77b31f660d4c",NA,19,"male","complete",336,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"3. 16-19",0
+"295","cddab40b-9fd1-4f05-903f-85196ea00814",11,59,"male","complete",365,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"296","afb33276-a52d-4e0d-b0de-d6736daa4310",7,35,"female","complete",228,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"297","f8ef9e8c-9246-4ca8-add0-c0eb117f5a47",9,21,"female","complete",195,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"298","1d777088-224a-474f-b76a-8b62db55da8b",10,76,"female","complete",231,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"6. >65",0
+"299","b7e8a083-a859-463e-af0c-767ea96277cb",NA,25,"female","complete",199,"hub","2019 Q4","Dec 2019",1,"117392",1,0,1,NA,NA,"st stephens",0,"4. 20-45",0
+"300","40966a0a-ffee-41f3-99b0-6637f342b1d5",0,43,"male","complete",356,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"never",5,"sir ganga ram",1,"4. 20-45",0
+"301","fafb94c0-2330-4cf2-a8e5-28ec5a2c2def",1,56,"male","died",29,"hub","2019 Q4","Dec 2019",0,"dl1050",0,0,0,"1 month",3,"sir ganga ram",1,"5. 46-65",0
+"302","c6f0b1bd-0af5-452a-970c-3b9186b0d10c",1,17,"female","complete",288,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"3. 16-19",0
+"303","ac8670d4-03f8-48ba-a06e-b7810d09b067",0,15,"female","complete",364,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"never",5,"sir ganga ram",0,"2. 6-15",0
+"304","9b2ae467-4b43-4029-aa60-17500d1c15b8",17,68,"male","complete",371,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"6. >65",0
+"305","23d000ab-16c8-43d4-bfd4-771776be7a5c",1,14,"female","complete",370,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"2. 6-15",0
+"306","4149439f-84aa-440f-94e2-3af6cf94eac4",5,35,"male","complete",368,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"307","1a903ce1-a28e-496a-8640-3d2c3a349ca1",2,44,"male","complete",361,"hub","2019 Q4","Dec 2019",1,"117392",0,0,0,"1 week",1,"st stephens",1,"4. 20-45",0
+"308","e94d3aca-5b2e-4131-bb25-4bbd5d603fbb",13,41,"male","complete",287,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"309","5b068e7e-7d12-49e6-a2a0-afd417cd36c4",12,31,"male","complete",339,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"310","cbd8b2d5-fb89-4b63-ac54-b156f2a35b91",15,45,"female","complete",383,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"311","e9fd547d-cdb2-4beb-bc56-ebf4dfb135e9",11,42,"male","complete",365,"hub","2019 Q4","Nov 2019",1,"117392",1,0,1,"post 1 month",4,"st stephens",1,"4. 20-45",0
+"312","013f3f98-1669-4d89-b2ee-0f88135ecd90",NA,22,"female","died",2,"spoke","2019 Q4","Dec 2019",0,"500549",1,0,0,NA,NA,"st stephens",0,"4. 20-45",0
+"313","3773f73a-2de2-4285-b4c3-37f4c8cfd79e",16,29,"female","complete",361,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"314","2621c406-8307-40d1-a78e-050c039ff98e",15,45,"male","complete",370,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"315","7830f4f3-84ec-46d5-901d-278337e3eff0",4,67,"male","complete",267,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"6. >65",0
+"316","356c2a53-5c0c-4c00-aa56-826fa112d828",12,22,"female","complete",272,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"317","b4e96b58-4876-46fe-919e-d392e0229332",13,58,"female","complete",301,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"318","2df1ea67-aaff-4cbc-840d-ec9de8e3d702",3,61,"male","complete",272,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"319","fbc9a4fb-aa0e-4f79-9bbd-096fed6c7f78",0,75,"male","complete",360,"hub","2019 Q4","Dec 2019",1,"117392",0,0,0,"never",5,"st stephens",1,"6. >65",0
+"320","b621081e-aff5-47a2-bb73-ec8704a913c9",9,60,"male","complete",276,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"321","20d1881d-d73a-4aeb-b9e1-a117b3aa2f10",13,28,"male","complete",383,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"322","69472310-7aa8-4e0a-94fc-5080e1eb09dc",11,41,"male","complete",374,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"323","2c5219b3-55d1-4576-9238-4e403cd7e684",11,61,"female","complete",313,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"324","0f9bdb97-486c-4df5-8b7d-2c321f3d6bd9",14,47,"male","complete",279,"hub","2019 Q4","Nov 2019",1,"dl1050",1,1,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"325","ee83b772-0303-4a2e-a443-bed7831abd6e",0,90,"female","complete",402,"hub","2019 Q4","Nov 2019",1,"117392",0,0,1,"never",5,"st stephens",0,"6. >65",0
+"326","dee3cc2f-7878-4685-8bf2-2d3f96574210",1,29,"male","complete",354,"hub","2020 Q1","Jan 2020",1,"117392",1,0,1,"post 1 month",4,"st stephens",1,"4. 20-45",0
+"327","e3b1b25f-5cec-4e55-a9dc-357292286256",6,19,"female","complete",181,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"2 weeks",2,"sir ganga ram",0,"3. 16-19",0
+"328","c09090ff-d1f7-4cb2-8edc-b1da6bb34a2d",0,35,"male","complete",354,"hub","2020 Q1","Jan 2020",1,"117392",1,0,1,"never",5,"st stephens",1,"4. 20-45",0
+"329","f9d52109-b001-499f-8d3f-d189c7c34e99",1,60,"male","died",34,"hub","2020 Q1","Jan 2020",0,"400026",0,0,0,"post 1 month",4,"vinod karhana",1,"5. 46-65",0
+"330","39e9431f-875b-49c6-83f4-f0d73a16b898",5,27,"male","complete",242,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"331","6493d255-b955-4d86-aa58-8b1be8e4d7bb",12,13,"female","complete",314,"hub","2020 Q1","Jan 2020",1,"117392",1,0,1,"post 1 month",4,"st stephens",0,"2. 6-15",0
+"332","7470fa83-8dc7-4583-b035-29017fca6778",18,28,"female","complete",229,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"2 weeks",2,"sir ganga ram",0,"4. 20-45",0
+"333","88fd3982-febe-45df-a9e3-4a6d11e9230c",2,62,"male","complete",359,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"2 weeks",2,"sir ganga ram",1,"5. 46-65",0
+"334","39027d9d-6917-4b37-990e-ac41d0cc6c22",17,26,"male","complete",256,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"335","3e420f33-cb04-437a-948c-41d91cb943cf",2,69,"male","complete",230,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"6. >65",0
+"336","4ae7f840-0e75-4081-95c3-9dd724b21dcd",20,20,"male","complete",397,"hub","2019 Q4","Nov 2019",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"337","300c5697-7420-4a40-84ef-e072a1713ac3",9,60,"female","complete",183,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"338","fd64c184-573c-47e4-9134-3dd870cce56f",1,68,"male","died",21,"hub","2020 Q1","Jan 2020",0,"dl1050",1,0,0,"2 weeks",2,"sir ganga ram",1,"6. >65",0
+"339","2be392aa-2d75-49f1-a0d5-da97e3b1e33d",7,28,"female","complete",280,"hub","2020 Q1","Jan 2020",1,"400026",1,0,0,"post 1 month",4,"vinod karhana",0,"4. 20-45",0
+"340","2a359ca9-798a-4218-9ae9-0cb7eb8b2f99",5,38,"male","complete",486,"hub","2020 Q1","Jan 2020",1,"117392",0,0,0,"2 weeks",2,"st stephens",1,"4. 20-45",0
+"341","7814185f-080f-4415-bece-2351a0bfe512",NA,39,"male","died",4,"hub","2020 Q1","Jan 2020",0,"117392",0,0,1,NA,NA,"st stephens",1,"4. 20-45",0
+"342","99565b87-6410-4d1f-b79f-5b383ba5a989",12,26,"female","complete",353,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"2 weeks",2,"sir ganga ram",0,"4. 20-45",0
+"343","4c808a10-dc45-4571-af0f-f517d2e131a3",12,23,"female","complete",302,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"344","276a7073-4327-4a78-a129-5e4daf73e6bc",4,50,"female","complete",168,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"2 weeks",2,"sir ganga ram",0,"5. 46-65",0
+"345","ab860faf-b2a4-4de0-93f4-49194256e27c",13,38,"male","complete",264,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"346","53a865c8-6d78-453a-bbec-2a5bb803951b",23,13,"female","complete",378,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"2. 6-15",0
+"347","1b62f8d1-a9d1-419d-b2a6-335586fd415b",15,35,"male","complete",319,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"348","461c76ed-2016-4b9a-96d4-76ced85b3f82",5,61,"female","complete",183,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"1 month",3,"sir ganga ram",0,"5. 46-65",0
+"349","bfccea86-4c47-44d2-a4ae-39230db471b6",1,62,"female","complete",351,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"2 weeks",2,"sir ganga ram",0,"5. 46-65",0
+"350","3988f05d-35dd-4f67-8ac7-ee84e9c73022",7,54,"male","died",211,"hub","2020 Q1","Jan 2020",0,"dl1050",0,0,0,"2 weeks",2,"sir ganga ram",1,"5. 46-65",0
+"351","05ef55c4-602d-42b1-9f20-5e3ddcefee47",16,20,"female","complete",343,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"352","72a7410b-1f41-4a4e-8561-8330c2620d43",NA,31,"female","complete",189,"hub","2020 Q1","Jan 2020",1,"dl1050",0,1,1,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"353","a256fa47-e801-4621-b608-b1d66369d71c",11,45,"male","complete",351,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"2 weeks",2,"sir ganga ram",1,"4. 20-45",0
+"354","cc3fa736-4f74-42db-96c0-258c47c89d6e",12,33,"male","complete",181,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"1 week",1,"sir ganga ram",1,"4. 20-45",0
+"355","5deea254-5bd3-4e4e-928c-68a0b7bff303",6,36,"male","complete",208,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"2 weeks",2,"sir ganga ram",1,"4. 20-45",0
+"356","dd6f741d-6f0a-412a-bc2c-579c0c980a3b",6,15,"female","complete",353,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"2. 6-15",0
+"357","cd718a47-a0a2-4fa5-8e37-73b7b12d7e22",19,20,"female","complete",239,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"2 weeks",2,"sir ganga ram",0,"4. 20-45",0
+"358","3642d0c8-e058-460b-be5f-26d8cb265493",12,35,"female","complete",358,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"359","9c1486fb-c0e1-4ad9-ad2c-87b52370e044",10,38,"female","complete",271,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"360","717949da-db8b-440c-8d5e-aa4398b38165",8,69,"male","complete",307,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"6. >65",0
+"361","ccd5e841-f440-4f41-a428-d23743e857ca",2,24,"female","complete",179,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"1 month",3,"sir ganga ram",0,"4. 20-45",0
+"362","ba70fd78-26d1-49c7-a119-9f3779fd3108",5,30,"male","complete",284,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"1 month",3,"sir ganga ram",1,"4. 20-45",0
+"363","a4869b1a-5676-46c2-889d-a4e4fce2812c",11,18,"male","complete",365,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"3. 16-19",0
+"364","42a9a9a3-cb2f-46f5-acfc-9cfc576b0581",12,26,"female","complete",379,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"365","266efd42-e779-4cd9-ba37-9e84d4767d5b",3,29,"female","complete",328,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"366","c01ae6c2-28ee-4e42-81a2-74d0e9bbd0bf",12,52,"male","complete",362,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"367","c2d292a1-ec83-45c3-9262-6fc6bbae45ea",10,33,"male","complete",227,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"368","93120fa2-3eb0-4bfa-8371-89afa3e3b5ca",14,24,"female","complete",282,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"369","1961d95d-3ee1-440e-975e-7b6b5721f4d0",11,44,"male","complete",256,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"370","68aac7c4-81d9-4706-b305-dc698501a5fb",10,39,"male","complete",216,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"371","4b72bc7d-9339-4d21-baff-76450a5e1072",17,16,"female","complete",270,"hub","2020 Q1","Jan 2020",1,"dl1050",1,1,0,"post 1 month",4,"sir ganga ram",0,"3. 16-19",0
+"372","e6951983-e1fa-406d-8606-ae330a5def21",13,31,"female","complete",368,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"373","82a5883c-0d9b-4d56-bddb-5e2a84e4f5d5",16,60,"male","complete",366,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"374","3e09e793-618a-4039-a269-9598fba8696e",12,15,"male","complete",295,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"2. 6-15",0
+"375","26bdf71e-6973-4f4d-8729-614b503c17fd",1,21,"female","lost",344,"hub","2020 Q1","Jan 2020",0,"400026",0,0,0,"post 1 month",4,"vinod karhana",0,"4. 20-45",0
+"376","6fd8a642-0091-4593-b5be-f8c639a1b620",16,63,"male","complete",183,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"377","1e27fc9c-cfbf-4afb-bcda-f4d40096b435",16,15,"male","complete",342,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"2. 6-15",0
+"378","961382ef-32d2-44d7-aa1f-244e3155a56c",12,46,"male","complete",379,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"379","6e6eab7c-9816-4f65-8561-3fc67e728786",11,24,"male","complete",228,"hub","2020 Q1","Jan 2020",1,"dl1050",1,1,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"380","e9e19ac5-f53c-4575-8bd4-f802933f50fc",12,26,"male","complete",257,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"381","88e37969-be93-42ce-8683-5b6ea0be0156",11,24,"female","complete",358,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"382","1323c772-848f-46de-b89f-ddf6deba45fe",1,21,"female","complete",244,"hub","2020 Q1","Jan 2020",1,"400026",1,0,0,"post 1 month",4,"vinod karhana",0,"4. 20-45",0
+"383","6668435e-7cc1-4124-89fb-9d7f65750665",13,63,"male","died",255,"hub","2020 Q1","Jan 2020",0,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"384","6bc99023-0577-4914-b99d-6be73a22d202",13,15,"female","complete",347,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"2. 6-15",0
+"385","318a5877-c967-412e-980d-0f6cd1c071f4",11,30,"female","complete",342,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"386","fadd8fea-8594-4bdf-8c78-33d6457cb374",10,14,"male","complete",191,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"2. 6-15",0
+"387","f8fa8b77-69f6-4d8b-abb0-2c41c575c01d",12,64,"male","complete",338,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"388","9c20a16e-58c3-4478-aedf-490be2d44f0d",11,46,"male","complete",205,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"389","ae31736c-2c98-4ae1-b786-1743a218c19b",12,39,"female","complete",316,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"390","8982b3af-acbc-4d11-b8eb-41ea2925920a",10,41,"female","complete",218,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"391","ad469bde-55c1-4f39-99da-ed145e272adf",13,53,"female","complete",372,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"392","4bf8d54d-a99c-478d-8bc0-d742546caeef",11,20,"male","complete",253,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"393","356bcdd0-c8cc-43d8-a5a4-0b7cea88d507",18,29,"female","complete",335,"hub","2020 Q1","Jan 2020",1,"dl1050",0,1,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"394","071b1b40-792d-4a36-9db9-f2c502829700",NA,26,"female","died",59,"hub","2020 Q1","Jan 2020",0,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"4. 20-45",0
+"395","0549c9db-9647-4b4d-aabf-7d4595a91615",17,36,"male","complete",333,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"396","070cad46-0dc0-445c-9d21-95d9c8c5f88f",13,28,"female","complete",340,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"397","db1f85b1-d714-4e05-8300-6848027d5e9e",13,40,"male","complete",350,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"398","093fca21-2038-47fc-b88f-c847edd27976",16,74,"female","complete",256,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"6. >65",0
+"399","93ed0a4c-c9ed-4a23-a884-ceadddf142b0",17,38,"male","complete",360,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"400","1c1384b7-39f7-43e7-b35c-a077d242fa49",NA,54,"female","died",16,"hub","2020 Q1","Jan 2020",0,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"5. 46-65",0
+"401","81115adc-a56c-4236-967a-be75a0d2ce44",8,56,"female","complete",337,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"402","ea62dc64-0ba4-4ad9-8984-2a3f776fbeb7",13,67,"male","complete",369,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"6. >65",0
+"403","d3760998-609e-43ff-897c-9c3ac103e759",8,58,"male","complete",226,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"404","59904a4e-b92d-4d2e-867a-8cfbedce6670",13,59,"male","complete",333,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"405","9ee603e1-67f6-4126-9653-2904ca0cfae9",NA,44,"male","complete",181,"hub","2020 Q1","Jan 2020",1,"117392",0,0,1,NA,NA,"st stephens",1,"4. 20-45",0
+"406","6cf670b8-3e87-4dcf-b34a-6abc1a13c15b",11,25,"male","complete",235,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"407","5a28f790-9ca3-400b-ae21-aaf73d249e44",NA,20,"female","died",6,"hub","2020 Q1","Jan 2020",0,"400026",0,0,0,NA,NA,"vinod karhana",0,"4. 20-45",0
+"408","d71e16b0-4b74-431e-a582-f6992d6b8bbf",NA,65,"male","died",25,"hub","2020 Q1","Jan 2020",0,"117392",1,0,0,NA,NA,"st stephens",1,"5. 46-65",0
+"409","c2083abc-c01b-4ed8-ae9d-f6fbf25febe7",7,18,"male","complete",244,"hub","2020 Q1","Jan 2020",1,"117392",0,0,0,"post 1 month",4,"st stephens",1,"3. 16-19",0
+"410","64ac0a5d-5281-4815-909c-252cc11e43a8",17,49,"male","complete",329,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"411","64152008-b940-408b-9722-91f67e90162f",15,22,"female","complete",332,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"412","4d44ea22-fb3b-4931-9d51-520094aef4d3",4,56,"female","complete",347,"hub","2020 Q1","Jan 2020",1,"dl1050",0,1,1,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"413","574fb2f2-b363-433c-83ab-c3d252bae61e",9,22,"female","complete",216,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"414","30984977-a47f-4e03-a0c8-7907a7e04565",13,26,"male","complete",342,"hub","2020 Q1","Jan 2020",1,"dl1050",1,1,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"415","323c774d-443c-4d65-9feb-6b90865700f7",8,17,"female","complete",244,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"3. 16-19",0
+"416","6964f984-cf75-404b-9c34-b64902f8dde8",9,40,"male","complete",282,"hub","2020 Q1","Jan 2020",1,"117392",1,0,1,"post 1 month",4,"st stephens",1,"4. 20-45",0
+"417","8f6f5521-7d80-4f70-94a7-f15304b121c4",NA,27,"male","died",3,"hub","2020 Q1","Jan 2020",0,"117392",1,0,1,NA,NA,"st stephens",1,"4. 20-45",0
+"418","26680c98-cdee-4560-8324-5d30bc36b62e",18,24,"female","complete",339,"hub","2020 Q1","Jan 2020",1,"117392",1,0,0,"post 1 month",4,"st stephens",0,"4. 20-45",0
+"419","f10d953c-b079-43f6-9bd9-b3889a9a51e1",10,45,"male","complete",365,"hub","2019 Q4","Oct 2019",1,"117392",1,0,0,"post 1 month",4,"st stephens",1,"4. 20-45",0
+"420","8b1ac16c-5de0-4bae-8127-9fbb313f2dfc",NA,18,"female","complete",323,"hub","2020 Q1","Jan 2020",1,"dl1050",0,1,0,NA,NA,"sir ganga ram",0,"3. 16-19",0
+"421","bbd31412-29aa-4124-9148-09703898586d",1,58,"male","complete",325,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"422","8a56af0a-2bf8-4d15-a8e1-c1172ec2da17",8,62,"male","died",129,"hub","2020 Q1","Jan 2020",0,"117392",0,0,0,"post 1 month",4,"st stephens",1,"5. 46-65",0
+"423","792e6cd1-7d52-4718-a44c-be5be9df9e36",NA,49,"male","complete",317,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"424","77ed3edd-d7f5-4455-b7d8-319635a9d759",NA,43,"male","died",56,"hub","2020 Q1","Jan 2020",0,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"425","5624fd15-eb24-46fd-b48c-f995072ec349",8,15,"male","complete",277,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"2. 6-15",0
+"426","89018e83-6160-47ba-bc20-baced18aa3d6",6,40,"male","complete",325,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"427","5f4f4dfb-8b71-4e74-a021-a130c154adcc",1,65,"male","complete",312,"hub","2019 Q4","Nov 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"428","80e4ef93-3961-4ce2-b213-6e81c69f29e3",1,38,"male","complete",350,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"429","5639a319-efea-497a-b79b-18c3c2f44c64",15,59,"male","complete",304,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"430","6f861fc0-89d2-4ad0-9895-cdcd6e7723bf",2,26,"male","complete",286,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"431","8f7714f0-96b3-432c-89bb-17a45da90cf4",11,58,"female","complete",270,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"432","b4d81a3b-880f-462f-84a4-efd67de10986",NA,12,"male","died",0,"hub","2020 Q1","Feb 2020",0,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"2. 6-15",0
+"433","0d07d342-1b13-4526-b3a6-9daf4f6392b7",19,32,"male","complete",247,"hub","2020 Q1","Feb 2020",1,"dl1050",0,0,0,"2 weeks",2,"sir ganga ram",1,"4. 20-45",0
+"434","3850ec38-5e9f-4ade-9e9d-582a5c1f0265",13,55,"female","complete",185,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"1 month",3,"sir ganga ram",0,"5. 46-65",0
+"435","e97e2bec-a16c-4aad-9e39-228378a0f5f5",5,56,"female","complete",325,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"436","4423ca4c-bd32-437e-889b-2e5dd14c1769",9,25,"female","complete",312,"hub","2020 Q1","Jan 2020",1,"dl1050",1,1,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"437","0dce2d51-fa4a-4625-a752-253a13d93cd1",0,56,"male","complete",323,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"never",5,"sir ganga ram",1,"5. 46-65",0
+"438","d362eff4-a740-42bc-b687-29df8c331d9e",NA,71,"male","died",0,"hub","2020 Q1","Feb 2020",0,"117392",0,0,1,NA,NA,"st stephens",1,"6. >65",0
+"439","239ed45d-a397-421f-af92-642f26ae2267",1,54,"male","died",170,"hub","2020 Q1","Feb 2020",0,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"440","63fa2af4-e820-4b50-bbfc-cc356315559c",19,64,"male","complete",244,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"1 week",1,"sir ganga ram",1,"5. 46-65",0
+"441","386cd3dd-799d-4e97-9739-b748606119f9",16,56,"male","complete",329,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"1 month",3,"sir ganga ram",1,"5. 46-65",0
+"442","5313c505-c50c-4601-abfe-c44bd665a14c",1,83,"male","died",184,"hub","2020 Q1","Jan 2020",0,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"6. >65",0
+"443","6bf5d6cf-62e4-4dc8-9fc7-4a136538f42b",10,9,"male","complete",325,"hub","2020 Q1","Jan 2020",1,"dl1050",1,1,0,"post 1 month",4,"sir ganga ram",1,"2. 6-15",0
+"444","08e69f29-f62b-4b7a-9fab-d34a4d4e2d29",20,22,"male","complete",233,"hub","2020 Q1","Feb 2020",1,"dl1050",0,0,0,"1 week",1,"sir ganga ram",1,"4. 20-45",0
+"445","f33831b7-82f8-4a91-a866-8155e6261c47",1,55,"male","died",25,"hub","2020 Q1","Jan 2020",0,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"446","dbf59329-6ecb-481d-8b60-34c27aedfcdb",19,19,"female","complete",325,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"1 month",3,"sir ganga ram",0,"3. 16-19",0
+"447","469df5e3-657b-471a-88ea-f074b2531f3a",NA,52,"male","died",10,"hub","2020 Q1","Feb 2020",0,"117392",0,0,0,NA,NA,"st stephens",1,"5. 46-65",0
+"448","18ef8d91-7b9a-4bbc-9489-b80e3997a72d",0,65,"female","complete",330,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"never",5,"sir ganga ram",0,"5. 46-65",0
+"449","4af2c409-5e5e-416a-8e0e-c2c5878d322f",19,30,"female","complete",325,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"450","de70b75f-17d5-4125-aaf9-a91bbc69cd47",17,19,"male","complete",378,"hub","2019 Q4","Dec 2019",1,"dl1050",0,1,0,"post 1 month",4,"sir ganga ram",1,"3. 16-19",0
+"451","ac3e37eb-e3a5-42f6-bbbb-0e2eb9659f55",11,57,"male","complete",313,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"452","4c3b1f23-0b3e-40c2-801c-83a34b0d8111",21,55,"male","complete",312,"hub","2020 Q1","Feb 2020",1,"dl1050",1,1,0,"2 weeks",2,"sir ganga ram",1,"5. 46-65",0
+"453","af66ca57-04a3-4d15-b7d1-b2f0d798a78e",19,29,"male","complete",314,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"1 month",3,"sir ganga ram",1,"4. 20-45",0
+"454","b2564047-da5a-435b-9745-7212fb7f6cd8",8,47,"male","complete",264,"hub","2020 Q1","Feb 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"455","d83a948b-eb1a-4a37-b729-e8d3ed3ac3a9",NA,46,"male","died",13,"hub","2020 Q1","Feb 2020",0,"117392",0,0,0,NA,NA,"st stephens",1,"5. 46-65",0
+"456","1fb7f313-c72b-4627-ad8c-4e12f82f2d9b",8,53,"female","complete",216,"hub","2020 Q1","Feb 2020",1,"400026",1,0,0,"post 1 month",4,"vinod karhana",0,"5. 46-65",0
+"457","afc1d393-7baf-4956-beb9-ead6da95a465",6,56,"male","complete",214,"hub","2020 Q1","Feb 2020",1,"400026",0,0,0,"post 1 month",4,"vinod karhana",1,"5. 46-65",0
+"458","2063368e-4142-4151-9e20-3e0426bccc17",NA,55,"female","complete",243,"hub","2020 Q1","Feb 2020",1,"117392",0,0,1,NA,NA,"st stephens",0,"5. 46-65",0
+"459","53f0f92e-5f22-4a78-ac2d-727300ff0a6e",10,43,"female","complete",306,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"460","7f2c5251-811e-433d-b6ac-f491ed118c49",19,61,"male","complete",238,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"1 month",3,"sir ganga ram",1,"5. 46-65",0
+"461","b160e345-6929-44da-8717-5b747cdff0b6",8,6,"male","complete",194,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"2. 6-15",0
+"462","65a34f96-aeb8-4e7d-b74a-ef5ce05fb105",0,45,"male","complete",198,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"never",5,"sir ganga ram",1,"4. 20-45",0
+"463","185cf6f5-065c-42ad-9b83-0ac98d803b0e",20,44,"female","complete",305,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"1 week",1,"sir ganga ram",0,"4. 20-45",0
+"464","7a4e5ec9-754e-42f3-ba47-914c8e53a0dd",NA,29,"female","complete",247,"hub","2020 Q1","Feb 2020",1,"117392",0,0,1,NA,NA,"st stephens",0,"4. 20-45",0
+"465","0b78df8f-a88e-4c04-b3c1-825ec8e9b510",NA,64,"male","died",19,"hub","2020 Q1","Feb 2020",0,"117392",0,0,1,NA,NA,"st stephens",1,"5. 46-65",0
+"466","523c9261-6bf7-4059-95f0-e364ac01698b",18,65,"male","complete",190,"hub","2020 Q1","Feb 2020",1,"dl1050",0,0,0,"2 weeks",2,"sir ganga ram",1,"5. 46-65",0
+"467","ea84d08a-6934-41e5-afee-bde1c1d53c35",19,54,"male","complete",304,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"1 week",1,"sir ganga ram",1,"5. 46-65",0
+"468","65fb674a-f28c-4269-9d75-0ec710810a7d",7,47,"male","complete",192,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"469","7616e92d-ebc9-4ce1-8ceb-47ee3af3769c",15,62,"female","complete",204,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"470","322b39de-0e26-44ff-83f7-ed4a13004050",15,46,"female","complete",308,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"471","e677ffb1-8244-4f29-ba1a-cdf04a310d54",17,41,"male","complete",272,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"472","1ff41f0c-891c-4119-b864-60b33c1045e8",16,65,"male","complete",251,"hub","2020 Q1","Feb 2020",1,"400026",0,0,0,"post 1 month",4,"vinod karhana",1,"5. 46-65",0
+"473","348370a9-84eb-4a3d-a525-19c500d2c9d8",7,68,"male","complete",304,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"6. >65",0
+"474","1a227f5d-b731-482a-8e2e-c83db4d9c90c",NA,75,"female","died",27,"hub","2020 Q1","Feb 2020",0,"400026",0,0,0,NA,NA,"vinod karhana",0,"6. >65",0
+"475","df569737-f4b3-4232-a10b-a6e874458a90",8,18,"male","complete",218,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"3. 16-19",0
+"476","ddf25dbc-1777-4b52-8b72-5808f0ae57cc",17,1,"male","complete",242,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"1. 0-5",0
+"477","3e14f616-4db4-4a90-b65b-c2e697a62c2a",1,58,"female","complete",148,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"478","3f8af181-2639-4daf-bae6-e3826e7db858",10,62,"male","complete",238,"hub","2020 Q1","Jan 2020",1,"dl1050",0,1,1,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"479","db00f255-19dd-4ec3-b202-87b718e777d9",6,35,"male","complete",227,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"480","da0e2212-e5da-40fa-9a49-fc4644c58217",15,20,"male","complete",177,"hub","2020 Q1","Feb 2020",1,"117392",0,0,0,"1 month",3,"st stephens",1,"4. 20-45",0
+"481","70cb703a-f741-4ca5-b6be-3d421d5cb9ae",18,65,"male","complete",269,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"1 month",3,"sir ganga ram",1,"5. 46-65",0
+"482","6bc3cd9c-c3e8-4c37-8c11-5fb51fc4d243",0,19,"male","complete",311,"hub","2020 Q1","Feb 2020",1,"117392",1,0,0,"never",5,"st stephens",1,"3. 16-19",0
+"483","00790b6a-1092-4dbd-a725-02a4758228d3",NA,38,"male","complete",266,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",0
+"484","f0f29234-880e-4dd3-8d22-d7b5edf72295",4,35,"female","complete",335,"hub","2020 Q1","Feb 2020",1,"117392",1,0,0,"1 month",3,"st stephens",0,"4. 20-45",0
+"485","6286b02f-44de-42d2-b907-565fafc83eef",19,27,"female","complete",348,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"486","c4d30222-1269-4472-a85f-b4621e96fabd",2,63,"female","complete",270,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"487","a27d63e1-37e6-406c-9fa0-6c52256a552c",16,33,"male","complete",182,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"488","7177665a-6ce5-400b-bab7-cd2eb7dea424",26,20,"female","complete",401,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"489","b6e681e2-800d-47f0-beee-3b9379add9c9",13,20,"male","complete",370,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"490","18a32cbc-bd62-44e1-b4e7-e5b80c9b9fea",10,52,"female","complete",121,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"491","427dfb73-f88e-44cc-8ce5-d6409583fd3a",2,19,"female","complete",389,"hub","2019 Q4","Nov 2019",1,"117392",1,0,1,"post 1 month",4,"st stephens",0,"3. 16-19",0
+"492","8dd6c416-877a-46dd-99e8-0209e9c683ae",19,19,"female","complete",305,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"1 week",1,"sir ganga ram",0,"3. 16-19",0
+"493","af8bbb6b-30e4-40e5-8e96-8ed3d34778c7",15,38,"male","complete",367,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"494","eba6fd9e-581b-4d60-a985-ef091df81811",26,63,"male","complete",373,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"1 week",1,"sir ganga ram",1,"5. 46-65",0
+"495","2101a791-77a1-41c0-8df8-7dd8ac6c5883",20,42,"male","complete",303,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"1 week",1,"sir ganga ram",1,"4. 20-45",0
+"496","dfd15ae4-2cf6-41df-a817-2654a81437a5",3,30,"female","complete",227,"hub","2019 Q4","Oct 2019",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"497","d7666a7b-e8af-49a2-b178-29b0727ddcbf",2,61,"male","died",65,"hub","2020 Q1","Jan 2020",0,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"498","9ec388b4-654f-4f49-8e45-84e5a738feff",9,42,"male","lost",160,"hub","2020 Q1","Jan 2020",0,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"499","04331005-61d9-48cd-9fb7-781bb15e8fe4",14,27,"female","complete",347,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"500","20e03d64-24da-436b-8ada-fc80063aa80e",11,23,"male","complete",228,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"501","c6c5e941-c058-4498-b301-60cde4f60b76",NA,29,"female","died",8,"hub","2020 Q1","Feb 2020",0,"117392",1,0,0,NA,NA,"st stephens",0,"4. 20-45",0
+"502","5c5d69f9-bd9a-4fd0-acc6-e83b4cfe4847",4,26,"female","complete",270,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"503","e04a1919-03b1-4a79-8a30-e0bec2a29b44",12,29,"female","complete",276,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"1 month",3,"sir ganga ram",0,"4. 20-45",0
+"504","87c87246-a587-48ec-a1d1-6fb8605e761e",12,40,"female","complete",331,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"505","b6f861d7-ca2f-42b0-b9e8-5412fbf61dab",12,1,"male","complete",340,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"1. 0-5",0
+"506","8e231d74-7c6e-46dd-84d2-0939e4cfdcbb",8,14,"female","complete",244,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"2. 6-15",0
+"507","ca0c30f4-9721-4f20-827d-2012d2d8bd4b",18,44,"female","complete",308,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"508","4a372ade-c6cf-488a-982e-642171cd3e65",14,54,"male","complete",514,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"509","f70e40dc-9d10-4b95-9c71-996f0810bf33",8,57,"male","complete",203,"hub","2020 Q1","Feb 2020",1,"117392",1,0,1,"post 1 month",4,"st stephens",1,"5. 46-65",0
+"510","f379f890-71f4-47c1-9f62-3a45042e046f",6,48,"female","complete",312,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"511","f5c06fc8-0b90-4046-9a99-e2df515f4674",12,31,"female","complete",315,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"512","07d58821-e02e-4514-ba97-5ed59f63de65",10,28,"male","complete",298,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"513","eb238010-572c-47a0-add7-1daf3f4864ac",4,14,"female","complete",317,"hub","2020 Q1","Feb 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"2. 6-15",0
+"514","7f017303-29ff-4dde-b75b-8694b25c3484",14,62,"female","complete",365,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"515","ca870eea-61a2-4985-8266-c307045ee2ba",9,74,"male","complete",207,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"6. >65",0
+"516","e1407670-c652-45e3-863f-7b2321b96848",12,71,"male","died",127,"hub","2020 Q1","Feb 2020",0,"dl1050",0,0,0,"2 weeks",2,"sir ganga ram",1,"6. >65",0
+"517","46d59b4b-032d-4b1b-a0a0-566f07b41df4",14,25,"female","complete",333,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"518","4cf30fff-505c-49f9-af76-cca11f70e640",15,71,"male","complete",390,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"6. >65",0
+"519","7f181d40-22f1-4b17-91f7-33bd80fa47e1",NA,51,"male","complete",301,"hub","2020 Q1","Feb 2020",1,"117392",0,0,1,NA,NA,"st stephens",1,"5. 46-65",0
+"520","a6a86d4f-b33a-49f3-ba21-6be007e606d0",1,72,"male","complete",240,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"6. >65",0
+"521","ecafd060-5acd-4d6c-9045-f5cb5c627a3c",17,25,"male","complete",331,"hub","2020 Q1","Mar 2020",1,"dl1050",0,0,1,"2 weeks",2,"sir ganga ram",1,"4. 20-45",0
+"522","5e80b75e-6736-4460-be37-1ec6ddcf2466",16,20,"male","complete",275,"hub","2020 Q1","Feb 2020",1,"dl1050",0,0,0,"1 month",3,"sir ganga ram",1,"4. 20-45",0
+"523","5311ac7e-606e-4ff7-b0eb-f99dc4c80902",1,24,"male","complete",183,"hub","2019 Q4","Oct 2019",1,"117392",0,0,0,"post 1 month",4,"st stephens",1,"4. 20-45",0
+"524","a5d2dd7c-11cd-46d1-9b6f-080387f0d43f",NA,53,"male","complete",211,"hub","2020 Q1","Mar 2020",1,"117392",0,0,1,NA,NA,"st stephens",1,"5. 46-65",0
+"525","fe8c7b12-2f90-46e2-b3a1-ffa99cbbc50d",NA,82,"male","died",0,"hub","2020 Q1","Feb 2020",0,"117392",0,0,0,NA,NA,"st stephens",1,"6. >65",0
+"526","a2c54c69-8043-43af-ab6a-de7fa88a21eb",0,22,"female","complete",323,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"never",5,"sir ganga ram",0,"4. 20-45",0
+"527","b97de934-33a8-4f10-86f7-895344538000",0,54,"male","complete",216,"hub","2020 Q1","Feb 2020",1,"dl1050",0,0,0,"never",5,"sir ganga ram",1,"5. 46-65",0
+"528","fc88a5a8-a113-4346-b6d3-d7345f218887",9,39,"male","complete",232,"hub","2020 Q1","Feb 2020",1,"dl1050",0,1,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"529","c03fce65-b40f-4fbd-9fad-068ea3ab5905",19,16,"female","complete",278,"hub","2020 Q1","Feb 2020",1,"dl1050",0,0,0,"1 week",1,"sir ganga ram",0,"3. 16-19",0
+"530","864c4b29-503f-4242-8483-fc7e0d888918",1,2,"female","complete",247,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"1. 0-5",0
+"531","c1bf1be4-231f-4aab-b2d2-ef566e57661b",11,40,"female","complete",366,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"532","4402abe2-61f8-4e5a-b84d-9d1d916a0ebb",10,20,"male","complete",101,"hub","2020 Q1","Feb 2020",1,"dl1050",0,0,0,"1 month",3,"sir ganga ram",1,"4. 20-45",0
+"533","94f88971-6d28-4ee6-b007-9065bb755335",9,54,"female","complete",294,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"534","6c6e699b-9f71-4110-911f-2abc3236ee93",18,12,"male","complete",242,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"2. 6-15",0
+"535","8bde6049-b3b2-48c4-890f-7004d39b2081",2,71,"male","complete",243,"hub","2020 Q1","Feb 2020",1,"400026",0,0,0,"post 1 month",4,"vinod karhana",1,"6. >65",0
+"536","7d9d1acd-456e-4f92-9109-acadee41da5d",11,26,"female","complete",245,"hub","2020 Q1","Mar 2020",1,"400026",0,0,0,"post 1 month",4,"vinod karhana",0,"4. 20-45",0
+"537","053f266b-03dd-45c9-807a-9c141b122210",6,15,"female","cured",168,"hub","2020 Q1","Mar 2020",1,"400026",0,0,0,"post 1 month",4,"vinod karhana",0,"2. 6-15",0
+"538","7a7cc2b1-4dbf-494b-b898-61011ee573f2",11,49,"male","complete",252,"hub","2020 Q1","Mar 2020",1,"dl1050",0,1,1,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"539","ae9ca944-387e-4c9b-92be-21d5ecb618d1",14,22,"female","complete",198,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"540","60a3531a-fa62-40ad-b094-58532f621e55",2,5,"female","complete",245,"hub","2020 Q1","Mar 2020",1,"400026",0,0,0,"post 1 month",4,"vinod karhana",0,"1. 0-5",0
+"541","05a62a79-74d9-4c7d-b64a-55a3b8e2a60d",14,19,"male","complete",266,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"3. 16-19",0
+"542","1cc4e187-1602-48db-a57e-c86d15acf219",9,43,"male","complete",281,"hub","2020 Q1","Mar 2020",1,"117392",1,0,1,"1 month",3,"st stephens",1,"4. 20-45",0
+"543","38f7c3e4-3e83-4845-91ac-4ccaaee4edd7",11,7,"male","complete",287,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"2. 6-15",0
+"544","62502523-5f64-4b90-a75e-cab1805e69e4",14,66,"female","complete",346,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"6. >65",0
+"545","f26f3a94-5d63-4a4b-a829-8af57ab59c12",3,25,"male","complete",171,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"546","e036a4be-6d55-4646-b653-25efa093b3b6",16,33,"male","complete",302,"hub","2020 Q1","Feb 2020",1,"dl1050",0,0,0,"1 month",3,"sir ganga ram",1,"4. 20-45",0
+"547","902bb432-8fb6-4dc7-97dd-1838e32bd7c7",16,23,"male","complete",306,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"1 week",1,"sir ganga ram",1,"4. 20-45",0
+"548","5d2f4ebb-901c-494b-b5e1-bc4e1975a448",17,65,"male","complete",289,"hub","2020 Q1","Mar 2020",1,"dl1050",0,0,0,"2 weeks",2,"sir ganga ram",1,"5. 46-65",0
+"549","d2c4f80a-84c2-4705-8147-b09d47d74057",1,50,"male","complete",184,"hub","2020 Q1","Mar 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"550","0854cc95-0483-46cf-afbc-b288284f8aad",1,19,"male","complete",255,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"3. 16-19",0
+"551","f47fdd1c-5751-478c-b461-5ff3b902bcda",1,18,"female","complete",264,"hub","2020 Q1","Feb 2020",1,"dl1050",0,1,0,"post 1 month",4,"sir ganga ram",0,"3. 16-19",0
+"552","8aec52a4-6bb1-4f05-92ee-8e92f8249dcc",1,34,"female","complete",184,"hub","2020 Q1","Mar 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"553","db44f4c8-6100-4937-b26a-d5454d99ef99",22,56,"male","complete",307,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"1 week",1,"sir ganga ram",1,"5. 46-65",0
+"554","8ae8af86-e4e9-491f-9638-58120f2244d7",8,43,"female","complete",182,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"555","c9641383-e080-432e-998a-d37fb789dda8",6,61,"male","complete",249,"hub","2020 Q1","Mar 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"556","be9f7639-d669-4a25-b9ce-eaec75603551",19,51,"male","complete",363,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"557","6ba00677-3e23-4c36-8fe9-14940a508ebc",15,29,"male","complete",165,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"2 weeks",2,"sir ganga ram",1,"4. 20-45",0
+"558","c2237c6d-e500-4e7b-a9ff-88ab1574fee8",18,24,"female","complete",364,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"1 month",3,"sir ganga ram",0,"4. 20-45",0
+"559","039037fe-712a-4806-ae8c-6a14756c3c4c",0,36,"male","complete",322,"hub","2020 Q1","Feb 2020",1,"dl1050",0,0,0,"never",5,"sir ganga ram",1,"4. 20-45",0
+"560","baf0dcba-8194-4b35-9b67-3965b72dd5e4",1,87,"female","complete",260,"hub","2020 Q1","Mar 2020",1,"117392",1,0,1,"post 1 month",4,"st stephens",0,"6. >65",0
+"561","5d82c355-0205-4d26-88bd-cbd339082cae",1,75,"female","complete",244,"hub","2020 Q1","Mar 2020",1,"400026",0,0,1,"post 1 month",4,"vinod karhana",0,"6. >65",0
+"562","7d77b648-87a7-414f-acbd-c0e4019ec499",NA,65,"male","died",44,"hub","2020 Q1","Mar 2020",0,"117392",0,0,1,NA,NA,"st stephens",1,"5. 46-65",0
+"563","b3efee4c-4a4a-4617-9f96-616cb75f6bca",15,76,"male","died",159,"hub","2020 Q1","Mar 2020",0,"dl1050",1,0,0,"1 month",3,"sir ganga ram",1,"6. >65",0
+"564","e628d637-55cd-4f9c-8ab4-4061208f3164",NA,15,"female","complete",167,"hub","2020 Q1","Mar 2020",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",0,"2. 6-15",0
+"565","e8f02d0e-2626-4759-80c4-ab7654c908d4",0,47,"male","complete",229,"hub","2020 Q1","Mar 2020",1,"117392",0,0,1,"never",5,"st stephens",1,"5. 46-65",0
+"566","71e03e9c-6804-4146-9e86-3e3f8d2cbf10",18,56,"female","complete",289,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"2 weeks",2,"sir ganga ram",0,"5. 46-65",0
+"567","9170c4d6-daf1-4792-9e4c-30158f325fb0",14,45,"male","complete",284,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"1 month",3,"sir ganga ram",1,"4. 20-45",0
+"568","49b94654-324d-486e-bb92-64059ba09bfd",19,18,"male","complete",237,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"1 week",1,"sir ganga ram",1,"3. 16-19",0
+"569","74973694-7bec-4c0e-8a37-88d03611e602",14,21,"male","complete",193,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"1 month",3,"sir ganga ram",1,"4. 20-45",0
+"570","c63ec016-269f-4cd5-816f-a9cfbf2b72bb",18,39,"male","complete",236,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"571","fbade5b8-7e6e-4734-aab1-3623e91824c9",17,57,"female","complete",249,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"572","1605deb3-46f1-447a-a372-c99f8df32088",NA,55,"male","complete",195,"hub","2020 Q1","Mar 2020",1,"117392",0,0,1,NA,NA,"st stephens",1,"5. 46-65",0
+"573","bea2abe9-94ad-42dd-a415-4d0f63d9c896",12,26,"male","complete",198,"hub","2020 Q1","Mar 2020",1,"117392",1,0,1,"2 weeks",2,"st stephens",1,"4. 20-45",0
+"574","5d654bd6-4b6a-4c87-8481-956efdf85bdf",NA,59,"male","complete",200,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,1,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"575","29359da5-43e6-4bc8-a27c-109f0a79c732",0,16,"male","complete",325,"hub","2020 Q1","Feb 2020",1,"dl1050",0,0,0,"never",5,"sir ganga ram",1,"3. 16-19",0
+"576","aa292910-f3ac-4ab8-92fb-490a125cc095",16,63,"female","complete",260,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"577","cd9b570c-94c1-4b32-8db3-030952e83b47",5,14,"male","complete",316,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"2. 6-15",0
+"578","d18750f0-0d92-479a-bc80-2edfccf5e2cd",13,25,"female","complete",275,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"579","ac57e335-8afd-49b3-ba23-561e28412b0a",21,38,"female","complete",281,"hub","2020 Q1","Mar 2020",1,"dl1050",0,0,0,"1 week",1,"sir ganga ram",0,"4. 20-45",0
+"580","3d42d256-338f-425b-8c15-f7afa228adf3",20,29,"male","complete",276,"hub","2020 Q1","Mar 2020",1,"dl1050",0,0,0,"2 weeks",2,"sir ganga ram",1,"4. 20-45",0
+"581","27d078be-bb60-41e8-b295-d28514b7c865",3,70,"female","complete",224,"hub","2020 Q1","Mar 2020",1,"117392",0,0,1,"1 month",3,"st stephens",0,"6. >65",0
+"582","c98d45ea-d095-49d6-bebc-8f04ddb78a02",5,73,"male","complete",167,"hub","2020 Q1","Mar 2020",1,"117392",0,0,1,"post 1 month",4,"st stephens",1,"6. >65",0
+"583","680b4744-5314-4d8b-ac56-8f6611948978",14,27,"male","complete",247,"hub","2020 Q1","Mar 2020",1,"400026",1,0,0,"2 weeks",2,"vinod karhana",1,"4. 20-45",0
+"584","b971cab9-0e7a-4693-800b-209e83203a51",5,20,"male","complete",203,"hub","2020 Q1","Mar 2020",1,"400026",1,0,0,"2 weeks",2,"vinod karhana",1,"4. 20-45",0
+"585","d1a7882e-47bb-4b5f-aaef-b98b26f5ec50",18,18,"female","complete",362,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"1 month",3,"sir ganga ram",0,"3. 16-19",0
+"586","998e7561-686e-45f1-b7ef-edc374038fbc",16,65,"male","died",184,"hub","2020 Q1","Mar 2020",0,"dl1050",0,0,0,"1 week",1,"sir ganga ram",1,"5. 46-65",0
+"587","bd0237ed-f7a9-4d55-957f-856daa5849a2",4,33,"female","died",398,"hub","2020 Q1","Mar 2020",0,"117392",1,0,1,"2 weeks",2,"st stephens",0,"4. 20-45",0
+"588","8df6024b-9336-4c92-85fe-9b877c1126a2",20,54,"female","complete",364,"hub","2020 Q1","Mar 2020",1,"117392",1,0,1,"2 weeks",2,"st stephens",0,"5. 46-65",0
+"589","603546ca-cc0c-4cb5-9467-1de2fc070d6a",7,69,"male","complete",315,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"6. >65",0
+"590","f4db8d04-e3d6-4a77-af63-f4fd462d9649",NA,76,"male","died",2,"hub","2020 Q1","Feb 2020",0,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"6. >65",0
+"591","60e2c092-9f2b-4ec1-8bd9-682b70b7bdbc",16,45,"male","complete",311,"hub","2020 Q1","Feb 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"592","59e8f16b-f2aa-4d15-a7b4-577e2164974f",18,3,"female","complete",312,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"1. 0-5",0
+"593","9ce23222-06cf-4dd1-b697-6f74c1ba68ac",15,57,"male","complete",309,"hub","2020 Q1","Feb 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"594","aa5af7d1-31b6-4a33-86c5-895844fbb786",17,70,"female","complete",172,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"2 weeks",2,"sir ganga ram",0,"6. >65",0
+"595","e4d1aaf0-26a7-4530-a31d-c23d383d64ff",12,58,"female","complete",276,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"1 week",1,"sir ganga ram",0,"5. 46-65",0
+"596","1727a31c-ca83-46cc-bca1-c67a54450944",1,46,"male","complete",218,"hub","2020 Q1","Mar 2020",1,"400026",0,0,1,"post 1 month",4,"vinod karhana",1,"5. 46-65",0
+"597","e16bfed8-58c0-4a02-82eb-d89a6338b5a0",3,56,"male","complete",301,"hub","2020 Q1","Mar 2020",1,"117392",0,0,0,"post 1 month",4,"st stephens",1,"5. 46-65",0
+"598","385d07cb-8169-4483-b442-81cc402221cb",18,14,"female","complete",204,"hub","2020 Q1","Mar 2020",1,"400026",0,0,0,"1 week",1,"vinod karhana",0,"2. 6-15",0
+"599","ef398c46-129e-41fc-81ef-f8855142e317",18,38,"male","complete",304,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"600","e531f54b-e7b0-42b8-b174-5800b21c5067",13,60,"male","complete",304,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"1 month",3,"sir ganga ram",1,"5. 46-65",0
+"601","b1882ca1-7c97-48f1-9285-e3be9aed1e66",10,24,"female","complete",318,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"602","cb368c0a-a95c-42e6-911b-795844cf5435",20,24,"female","complete",304,"hub","2020 Q1","Feb 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"603","81bcf0bc-89a5-49a1-83fa-185cc54ac268",17,23,"female","complete",285,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"1 week",1,"sir ganga ram",0,"4. 20-45",0
+"604","9a833b10-0510-4202-833d-b3e46a6d233b",17,35,"male","complete",322,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"605","9806bd37-af11-47b9-b8b3-a014491fbf6b",15,32,"female","complete",239,"hub","2020 Q1","Mar 2020",1,"400026",0,0,1,"1 week",1,"vinod karhana",0,"4. 20-45",0
+"606","19fdb59d-e53b-4ad2-adf8-c19af35fb4d4",3,13,"female","complete",208,"hub","2020 Q1","Mar 2020",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",0,"2. 6-15",0
+"607","61e59f59-d042-4cff-b8d3-e39befa405d4",16,80,"male","died",220,"hub","2020 Q1","Feb 2020",0,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"6. >65",0
+"608","79b7e6ff-89df-4e8f-b541-8db074b2e5b3",17,17,"female","complete",244,"hub","2020 Q1","Mar 2020",1,"400026",0,0,1,"2 weeks",2,"vinod karhana",0,"3. 16-19",0
+"609","75b26966-3c45-4ff5-92ae-b2fafccc75c9",19,29,"male","complete",269,"hub","2020 Q1","Mar 2020",1,"dl1050",0,0,0,"1 week",1,"sir ganga ram",1,"4. 20-45",0
+"610","83fa39c1-cdc0-44e1-8fba-756e76e36800",14,19,"female","complete",202,"hub","2020 Q1","Mar 2020",1,"117392",1,0,0,"2 weeks",2,"st stephens",0,"3. 16-19",0
+"611","a948027b-5075-4c22-8951-dd33e6a1aa49",19,9,"male","complete",276,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"2. 6-15",0
+"612","9f208950-af2a-4669-83f4-024764c6d206",NA,58,"male","died",13,"hub","2020 Q1","Feb 2020",0,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"613","2e6ef469-d195-4d79-8ee3-7bee3c8dbcbe",14,72,"female","complete",298,"hub","2020 Q1","Feb 2020",1,"dl1050",0,0,0,"1 month",3,"sir ganga ram",0,"6. >65",0
+"614","88b28fb1-5144-4a9a-ac27-5bd2b571fcc6",20,67,"male","complete",306,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"6. >65",0
+"615","9de93e33-2581-4aea-ac89-422da2cc3019",NA,78,"female","died",11,"hub","2020 Q1","Feb 2020",0,"dl1050",0,0,0,NA,NA,"sir ganga ram",0,"6. >65",0
+"616","6f1bec4e-fdac-4080-ab9e-5efc687b833a",11,13,"female","complete",264,"hub","2020 Q1","Feb 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"2. 6-15",0
+"617","252a57a1-4354-487b-85c9-3428c6f42365",16,45,"female","complete",232,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"618","21292274-b202-4cf7-9e56-ae9e3785496d",17,31,"male","complete",232,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"619","071a154f-1588-456d-94d2-bca1362436b3",20,33,"male","complete",314,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"620","7edfab28-0f2a-4bff-8171-9641ce582aeb",14,29,"female","complete",175,"hub","2020 Q1","Feb 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"621","46433bf5-114d-4d7f-a602-c713dbd5186d",17,22,"female","complete",246,"hub","2020 Q1","Mar 2020",1,"117392",1,0,0,"2 weeks",2,"st stephens",0,"4. 20-45",0
+"622","34c2b17a-ba50-4e85-a8fe-9939364ef5ec",7,40,"male","complete",240,"hub","2020 Q1","Mar 2020",1,"117392",0,0,0,"1 month",3,"st stephens",1,"4. 20-45",0
+"623","b6bf767a-8ec9-47e2-bddc-691cf5257920",3,30,"female","complete",238,"hub","2020 Q1","Mar 2020",1,"117392",1,0,0,"1 month",3,"st stephens",0,"4. 20-45",0
+"624","b588d4cf-9eef-4535-906e-3ccd9f1301bd",18,41,"male","complete",195,"hub","2020 Q1","Mar 2020",1,"117392",0,0,1,"1 week",1,"st stephens",1,"4. 20-45",0
+"625","13449ee6-fc22-4fdd-b135-12c78ba342c3",2,71,"male","complete",293,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"6. >65",0
+"626","2a100bae-6bb9-4bb6-99d9-22b9ebab96b6",23,20,"female","complete",346,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"1 week",1,"sir ganga ram",0,"4. 20-45",0
+"627","1d00987f-b4bf-4855-bde0-1b100acbe11c",19,24,"female","complete",304,"hub","2020 Q1","Mar 2020",1,"117392",1,0,0,"1 month",3,"st stephens",0,"4. 20-45",0
+"628","eba42dc4-2caa-4ca5-a19b-59f0ddecdd35",15,56,"male","complete",217,"hub","2020 Q1","Feb 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"629","92f8130e-4790-4bbf-b631-734a0113eaa9",15,56,"female","died",240,"hub","2020 Q1","Mar 2020",0,"117392",0,0,0,"1 month",3,"st stephens",0,"5. 46-65",0
+"630","7192a2cd-0db5-4647-9350-d03ae642b9da",0,51,"female","lost",292,"hub","2020 Q1","Mar 2020",0,"117392",1,0,0,"never",5,"st stephens",0,"5. 46-65",0
+"631","2da5ee95-f41d-478d-84d4-fde58132c596",14,58,"female","complete",240,"hub","2020 Q1","Mar 2020",1,"117392",1,0,0,"1 month",3,"st stephens",0,"5. 46-65",0
+"632","07556615-6a45-4197-be4f-8b669f28fa50",19,11,"female","complete",290,"hub","2020 Q1","Mar 2020",1,"dl1050",0,0,0,"1 week",1,"sir ganga ram",0,"2. 6-15",0
+"633","ff8d046f-38f4-4c1c-9d3b-37f3004c8996",18,25,"female","complete",192,"hub","2020 Q1","Mar 2020",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",0,"4. 20-45",0
+"634","87132b36-eaee-43ba-9409-0e6ec27dad05",14,9,"male","complete",203,"hub","2020 Q1","Mar 2020",1,"400026",1,0,0,"2 weeks",2,"vinod karhana",1,"2. 6-15",0
+"635","ce722217-e54b-4f21-a5d0-cb0a59a285ae",5,46,"female","lost",277,"hub","2020 Q1","Mar 2020",0,"400026",1,0,0,"1 month",3,"vinod karhana",0,"5. 46-65",0
+"636","1990c959-be18-4ce1-9215-520886e0288b",12,20,"male","complete",184,"hub","2020 Q1","Mar 2020",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",1,"4. 20-45",0
+"637","4dd38b7d-65c2-4356-b6da-f00c5fc68353",15,49,"male","complete",245,"hub","2020 Q1","Mar 2020",1,"400026",0,0,0,"1 month",3,"vinod karhana",1,"5. 46-65",0
+"638","72ef569c-cb51-4672-ba99-54d7bbecd518",18,25,"male","complete",197,"hub","2020 Q1","Mar 2020",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",1,"4. 20-45",0
+"639","ad1c15dd-1767-42a2-af0e-7835ce0023e1",18,19,"male","complete",226,"hub","2020 Q1","Mar 2020",1,"400026",1,0,0,"2 weeks",2,"vinod karhana",1,"3. 16-19",0
+"640","9fcce9e2-338b-4229-96dc-de6c5f4ee9a5",0,38,"male","lost",120,"hub","2020 Q1","Mar 2020",0,"400026",0,0,0,"never",5,"vinod karhana",1,"4. 20-45",0
+"641","89857003-d4bd-442b-a7db-2a091394a36b",13,60,"male","complete",186,"hub","2020 Q1","Mar 2020",1,"400026",0,0,0,"1 month",3,"vinod karhana",1,"5. 46-65",0
+"642","9820fb37-01c7-4d0f-a68f-b9561e35fb8e",18,15,"female","complete",327,"hub","2020 Q1","Mar 2020",1,"400026",1,0,0,"1 week",1,"vinod karhana",0,"2. 6-15",0
+"643","f52d099b-82ad-43e9-9c66-f33cc0bc844f",14,25,"female","complete",285,"hub","2020 Q1","Mar 2020",1,"400026",0,0,0,"1 week",1,"vinod karhana",0,"4. 20-45",0
+"644","5ad974f3-997a-467a-b04c-f2e5f4823cb0",9,21,"male","complete",332,"hub","2020 Q1","Mar 2020",1,"400026",1,0,0,"1 week",1,"vinod karhana",1,"4. 20-45",0
+"645","d2345929-f472-4c9f-a3f5-ff00b132b8b5",13,50,"male","complete",214,"hub","2020 Q1","Mar 2020",1,"400026",0,0,0,"1 week",1,"vinod karhana",1,"5. 46-65",0
+"646","7282db35-5edc-4773-be74-b114d6095ff3",6,25,"male","complete",167,"hub","2020 Q1","Mar 2020",1,"400026",1,0,0,"1 month",3,"vinod karhana",1,"4. 20-45",0
+"647","9f4c649b-613e-4d05-b136-462854eb0e49",23,17,"female","complete",336,"hub","2020 Q1","Mar 2020",1,"400026",0,0,0,"1 week",1,"vinod karhana",0,"3. 16-19",0
+"648","d433693d-6b4f-47f2-b875-7417ffba88dc",17,63,"male","complete",248,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"1 month",3,"sir ganga ram",1,"5. 46-65",0
+"649","15c62df4-687a-47b2-811f-29fb62c67990",13,33,"female","complete",251,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"1 week",1,"sir ganga ram",0,"4. 20-45",0
+"650","d620f4b1-68d5-4f00-8644-0db034f95ff3",1,68,"female","died",5,"hub","2020 Q1","Mar 2020",0,"117392",0,0,1,"1 week",1,"st stephens",0,"6. >65",0
+"651","cb493cad-4461-4bb5-bbc8-680cd3664912",14,21,"female","complete",183,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"2 weeks",2,"sir ganga ram",0,"4. 20-45",0
+"652","19c356b9-1a55-42d6-8596-526d21037b17",2,27,"female","complete",253,"hub","2020 Q1","Mar 2020",1,"117392",1,0,0,"post 1 month",4,"st stephens",0,"4. 20-45",0
+"653","0a1f9cde-b982-41d1-9f76-d7eeabf37734",1,21,"male","died",53,"hub","2020 Q1","Mar 2020",0,"117392",1,0,0,"post 1 month",4,"st stephens",1,"4. 20-45",0
+"654","ed62faf0-9970-4329-9cb2-89b2baf5c0c9",16,29,"male","complete",206,"hub","2020 Q1","Mar 2020",1,"117392",1,0,0,"1 week",1,"st stephens",1,"4. 20-45",0
+"655","f38162eb-2b51-44a4-a217-40df9ea81b0d",18,18,"female","complete",239,"hub","2020 Q1","Mar 2020",1,"400026",1,0,0,"2 weeks",2,"vinod karhana",0,"3. 16-19",0
+"656","134f256e-9d37-40db-ba77-605b15af5cfe",5,20,"female","complete",203,"hub","2020 Q1","Mar 2020",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",0,"4. 20-45",0
+"657","a432af05-4d57-4895-a281-299cf4fedc0a",16,13,"female","complete",194,"hub","2020 Q1","Mar 2020",1,"400026",1,0,0,"1 week",1,"vinod karhana",0,"2. 6-15",0
+"658","001ac58f-61df-4cda-9ef4-e82880e0dfb9",13,20,"female","complete",286,"hub","2020 Q1","Mar 2020",1,"400026",1,0,0,"2 weeks",2,"vinod karhana",0,"4. 20-45",0
+"659","29db1c22-9b6a-4533-8432-3b8772e8a107",16,17,"female","complete",271,"hub","2020 Q1","Mar 2020",1,"117392",1,0,0,"1 month",3,"st stephens",0,"3. 16-19",0
+"660","96f39f7d-63c6-4fa7-ac70-1f3b9b700712",15,20,"female","complete",231,"hub","2020 Q1","Mar 2020",1,"117392",0,0,0,"1 month",3,"st stephens",0,"4. 20-45",0
+"661","2d8c9fae-45fb-460f-aa18-2c24a3dad14b",9,32,"male","complete",292,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"662","d6500f24-cea3-4e81-8c5d-947c8885d448",1,49,"female","complete",207,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"663","4c884dd5-2d92-490c-be43-926c4e675ca9",0,71,"male","lost",15,"hub","2020 Q1","Mar 2020",0,"dl1050",0,0,0,"never",5,"sir ganga ram",1,"6. >65",0
+"664","b93b63b7-f358-49b8-b473-f291c9411ffa",14,63,"female","complete",334,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"665","cecc5a7a-ada0-4ab0-9a5d-d2ffd375eeb0",5,49,"male","complete",167,"hub","2020 Q1","Mar 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"666","e1fd1f85-a838-4a27-90a1-53297598c314",22,68,"female","complete",292,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"6. >65",0
+"667","c7562744-932e-4ad8-9945-9806db1631a4",NA,71,"male","died",14,"hub","2020 Q1","Mar 2020",0,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"6. >65",0
+"668","c0537efd-ac2b-471e-b456-d6b07901e278",16,50,"male","complete",274,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"669","8c84306c-2ba2-426c-a9c5-cdd539160337",0,79,"male","died",60,"hub","2020 Q1","Mar 2020",0,"dl1050",1,0,0,"never",5,"sir ganga ram",1,"6. >65",0
+"670","de0e8939-4e00-4192-8304-17f71ce7d94c",NA,54,"male","died",42,"hub","2020 Q1","Mar 2020",0,"dl1050",1,0,0,NA,NA,"sir ganga ram",1,"5. 46-65",0
+"671","12372794-8259-4fac-bd74-433212b3fb8b",2,80,"male","died",69,"hub","2020 Q1","Mar 2020",0,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"6. >65",0
+"672","3f0f52a6-63d8-4a7e-aa4a-62cdbd79a8d4",11,43,"male","complete",272,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"673","b1d8a201-a653-4a09-b655-52d394341171",3,67,"female","complete",275,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"6. >65",0
+"674","8dee6823-d6c8-4d92-9c13-73c694d4e41c",12,31,"female","complete",358,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"675","86406c43-7060-45bb-a24b-05832d877650",0,42,"male","complete",275,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"never",5,"sir ganga ram",1,"4. 20-45",0
+"676","84a24879-d011-409c-9228-b5296e276a23",10,34,"female","complete",281,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"677","905a7d52-2dc9-4d5c-8e88-6c35c075df43",6,40,"male","complete",282,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"678","ca588525-3ea4-4c6d-80e0-f801823da488",15,23,"female","complete",334,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"679","55766f43-4aa8-4d54-b412-8b20fef6954d",15,16,"female","complete",293,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"3. 16-19",0
+"680","d13e1ef3-7046-4756-ac32-62b3e95b7f60",15,61,"female","complete",372,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"681","35cb3317-a5de-441e-a44c-231db499190c",6,66,"male","complete",169,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"6. >65",0
+"682","72d8789c-d1e4-48c4-8839-e5fafa739dd2",8,42,"male","complete",208,"hub","2020 Q1","Mar 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"683","f77b18e6-9222-4880-a9fa-331a158ef452",12,23,"male","complete",303,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"684","5d7cc317-d44e-405a-81fe-d87a37519274",2,30,"female","complete",266,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"685","f5a8fbe3-976a-4113-88b7-c0c20cf5ab92",8,54,"male","complete",225,"hub","2020 Q1","Mar 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"686","218d0c80-815e-4cd4-af33-cf66a4864db2",10,20,"female","complete",279,"hub","2020 Q1","Mar 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"687","6107bed3-05ad-4c87-bd6e-d2121fa41dfe",15,53,"female","complete",277,"hub","2020 Q1","Mar 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"5. 46-65",0
+"688","0a23aef0-e007-4553-84bd-0c07d4302b49",21,35,"female","complete",336,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"689","df9a5dfa-5f86-420d-8ffa-780a38a3d64b",0,43,"male","complete",183,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"never",5,"sir ganga ram",1,"4. 20-45",0
+"690","78912234-7898-4b9f-a002-ae2ca16bba86",13,64,"male","complete",365,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"691","f8af62df-d816-437f-9b0e-a1daed855549",11,27,"female","complete",267,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"692","10aad508-cc67-41b1-9303-f1792957b92f",7,30,"male","failure",167,"hub","2020 Q1","Mar 2020",0,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"693","adaa791d-8378-4bbd-884a-ab4265b89a58",10,69,"male","complete",226,"hub","2020 Q1","Mar 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"6. >65",0
+"694","cac27b99-fb94-4e53-9bf3-b90702106cd6",10,32,"male","complete",279,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"695","2313a82e-0055-4da5-a791-a74f5d5ebd2f",11,18,"male","complete",268,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"3. 16-19",0
+"696","c4efbb3a-a70f-483a-91ec-01c9db37f3a9",11,53,"male","complete",284,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"697","4bf0e383-6edb-4ea7-9010-850dba60f23f",15,50,"male","complete",285,"hub","2020 Q1","Mar 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"698","8d1e0d28-02b1-48e9-ba96-f569ecd46e1b",15,30,"female","complete",291,"hub","2020 Q1","Mar 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"699","88c48cb8-7f6f-4426-ac15-541aed4abcec",8,60,"male","complete",247,"hub","2020 Q1","Feb 2020",1,"117392",0,0,0,"post 1 month",4,"st stephens",1,"5. 46-65",0
+"700","cb2c6514-3097-4307-957c-a32d6e9410a9",14,63,"female","complete",312,"hub","2020 Q1","Feb 2020",1,"117392",1,0,0,"post 1 month",4,"st stephens",0,"5. 46-65",0
+"701","4bdb20df-eedf-4232-bf5e-c9f6996702b5",4,71,"male","complete",283,"hub","2020 Q1","Feb 2020",1,"117392",1,0,0,"post 1 month",4,"st stephens",1,"6. >65",0
+"702","be39b641-88c7-4643-8d3b-b9c9b3159460",7,53,"female","complete",350,"hub","2020 Q1","Jan 2020",1,"117392",1,0,1,"post 1 month",4,"st stephens",0,"5. 46-65",0
+"703","20415db2-4bf3-4f85-a099-f36c6f8ebbba",7,19,"female","complete",183,"hub","2020 Q1","Mar 2020",1,"117392",0,1,0,"post 1 month",4,"st stephens",0,"3. 16-19",0
+"704","2352382c-18e5-4f6a-a2f7-9ecc1f62b824",8,27,"female","complete",217,"hub","2020 Q1","Mar 2020",1,"117392",0,0,0,"post 1 month",4,"st stephens",0,"4. 20-45",0
+"705","aec21417-3188-4dc5-bfa7-a125a108cdb5",6,68,"male","complete",247,"hub","2020 Q1","Mar 2020",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"6. >65",0
+"706","e0d52dc3-9869-4870-86f4-d4e00e40ef19",5,33,"female","complete",274,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"707","9b96a9a4-a2e1-4dac-9b06-f7be9e26dd5c",1,19,"female","complete",265,"hub","2019 Q4","Dec 2019",1,"dl1050",1,1,0,"post 1 month",4,"sir ganga ram",0,"3. 16-19",0
+"708","9e2b243a-e72f-4bcd-ada1-6928eb58b1ba",3,34,"male","complete",248,"hub","2020 Q1","Feb 2020",1,"dl1050",1,1,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"709","8efe5dc5-a855-46b0-aad7-9127f939d7c9",1,64,"male","complete",375,"hub","2019 Q4","Oct 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",0
+"710","ecc4e017-4f4a-4207-b5cf-ae7cc6982f5e",0,26,"male","complete",279,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"never",5,"sir ganga ram",1,"4. 20-45",0
+"711","9de3d7c0-f602-4e64-822d-af86cb8014fd",18,16,"male","complete",247,"hub","2020 Q1","Feb 2020",1,"dl1050",0,1,0,"1 week",1,"sir ganga ram",1,"3. 16-19",0
+"712","fda09f1f-b26d-46bf-ab01-a594610c4fcd",4,29,"male","complete",247,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",0
+"713","8552514f-90f0-47b9-81cf-fce6f4171257",7,36,"female","complete",410,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",0
+"714","a6d7f543-120e-4976-b93d-90c7b676793d",13,26,"male","complete",191,"hub","2019 Q4","Nov 2019",1,"117392",0,0,1,"post 1 month",4,"st stephens",1,"4. 20-45",1
+"715","c8ffd777-1b64-4d70-b0a6-6f5995aa32cd",NA,42,"male","complete",-246,"hub","2019 Q4","Nov 2019",1,"103555",0,0,1,NA,NA,"st stephens",1,"4. 20-45",1
+"716","83a319f3-11d2-4b7d-b267-40efb6e6240c",23,13,"male","complete",302,"hub","2019 Q4","Nov 2019",1,"103555",0,0,1,"2 weeks",2,"st stephens",1,"2. 6-15",1
+"717","12f48f2a-6b86-47fb-82b9-74162fe4e028",13,18,"female","complete",267,"hub","2019 Q4","Nov 2019",1,"117392",1,0,1,"post 1 month",4,"st stephens",0,"3. 16-19",1
+"718","41c651f1-5c12-42b6-b6e8-a1eefb950619",19,25,"female","complete",-326,"hub","2019 Q4","Nov 2019",1,"143054",0,0,0,"1 week",1,"vinod karhana",0,"4. 20-45",1
+"719","dddc72f4-a9c8-40b1-a433-f40f0500a834",1,36,"male","complete",303,"hub","2019 Q4","Nov 2019",1,"103555",1,1,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",1
+"720","d1df7709-967d-4949-a7f7-f05c20331273",22,35,"female","complete",316,"hub","2019 Q4","Dec 2019",1,"117392",1,1,1,"1 month",3,"st stephens",0,"4. 20-45",1
+"721","4dd83af6-7db0-445a-a567-c0330a04a349",15,66,"male","complete",191,"hub","2019 Q4","Nov 2019",1,"117392",1,0,1,"1 week",1,"st stephens",1,"6. >65",1
+"722","ad8f42db-3100-436a-8fbb-61673dddeeb5",NA,41,"female","complete",185,"hub","2019 Q4","Nov 2019",1,"103555",1,0,0,NA,NA,"sir ganga ram",0,"4. 20-45",1
+"723","44b33bf7-23ad-476e-b611-b0885f42b4cd",13,35,"male","complete",225,"spoke","2019 Q4","Nov 2019",1,"536818",0,0,0,"post 1 month",4,"vinod karhana",1,"4. 20-45",1
+"724","a41bd271-c00c-4690-aea1-be003b7279ea",15,15,"female","complete",192,"hub","2019 Q4","Nov 2019",1,"154891",0,0,0,"1 month",3,"vinod karhana",0,"2. 6-15",1
+"725","5df02748-e98a-49d0-b87d-9aa3472e9663",25,16,"female","complete",325,"hub","2019 Q4","Dec 2019",1,"117392",1,0,1,"1 week",1,"st stephens",0,"3. 16-19",1
+"726","cd0b1df7-63c2-4143-9be6-021a0cb31b7c",NA,16,"female","complete",319,"spoke","2019 Q4","Nov 2019",1,"143746",0,0,0,NA,NA,"sir ganga ram",0,"3. 16-19",1
+"727","34237784-cd1e-48ec-b985-9b1305ed30cb",26,42,"male","complete",369,"spoke","2019 Q4","Nov 2019",1,"135624",0,0,0,"1 month",3,"vinod karhana",1,"4. 20-45",1
+"728","9c24e12c-7150-49e0-84d1-1f88dfb4ff0d",20,30,"male","complete",228,"hub","2019 Q4","Nov 2019",1,"103555",0,0,0,"1 week",1,"vinod karhana",1,"4. 20-45",1
+"729","12808598-c151-4a34-92df-562f9da32fdb",22,16,"male","complete",263,"hub","2019 Q4","Nov 2019",1,"117392",1,0,1,"2 weeks",2,"st stephens",1,"3. 16-19",1
+"730","f1d3d62d-3ccc-434d-91da-8b60f79a872e",NA,29,"male","complete",226,"hub","2019 Q4","Nov 2019",1,"103555",1,1,1,NA,NA,"sir ganga ram",1,"4. 20-45",1
+"731","13e605e4-8612-422d-91fd-e5d72b47b879",30,18,"female","complete",378,"hub","2019 Q4","Dec 2019",1,"117392",1,0,1,"1 week",1,"st stephens",0,"3. 16-19",1
+"732","acdefc54-4dfa-4c17-b83f-6027627625b9",12,67,"female","complete",142,"hub","2019 Q4","Dec 2019",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",0,"6. >65",1
+"733","db00c517-0711-44fa-bc4f-c7ee51e0fe0d",27,42,"male","complete",369,"hub","2019 Q4","Dec 2019",1,"400026",0,0,1,"2 weeks",2,"vinod karhana",1,"4. 20-45",1
+"734","13ef30e9-4a2a-4892-a926-30048b08af7a",24,20,"male","complete",311,"hub","2019 Q4","Dec 2019",1,"117392",0,0,1,"1 week",1,"st stephens",1,"4. 20-45",1
+"735","1cfec85f-4558-48cc-8d2f-d444106eda52",NA,19,"female","complete",274,"hub","2019 Q4","Dec 2019",1,"dl1050",1,1,0,NA,NA,"sir ganga ram",0,"3. 16-19",1
+"736","707e301b-58bb-49d5-9330-0b8bd3de7f4c",28,30,"female","complete",365,"hub","2019 Q4","Dec 2019",1,"117392",1,1,0,"1 week",1,"st stephens",0,"4. 20-45",1
+"737","01ab5927-3d83-4261-85b5-21781dcf265d",21,21,"female","complete",267,"hub","2019 Q4","Dec 2019",1,"400026",1,0,0,"2 weeks",2,"vinod karhana",0,"4. 20-45",1
+"738","c4de7e11-ddce-4aa9-a15c-065c3405cfb7",20,9,"male","complete",215,"hub","2019 Q4","Dec 2019",1,"117392",0,0,1,"2 weeks",2,"st stephens",1,"2. 6-15",1
+"739","42bb9b31-41b5-485b-9aa7-daa5ea39f661",NA,31,"female","complete",166,"hub","2019 Q4","Dec 2019",1,"dl1050",0,1,0,NA,NA,"sir ganga ram",0,"4. 20-45",1
+"740","de9077d2-7d50-4be5-8b39-5f1ede4fabd8",26,2,"male","complete",432,"hub","2019 Q4","Dec 2019",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",1,"1. 0-5",1
+"741","b67097bb-f11d-4f6b-9c5a-58a57b9195dd",3,19,"female","complete",379,"hub","2019 Q4","Dec 2019",1,"dl1050",1,1,0,"post 1 month",4,"sir ganga ram",0,"3. 16-19",1
+"742","46dd1816-6849-4ffb-9375-206b97825fb3",3,26,"male","complete",384,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",1
+"743","c1dda823-be6f-42a3-9469-1f52d2c9c148",NA,32,"male","complete",191,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,NA,NA,"sir ganga ram",1,"4. 20-45",1
+"744","ab418f0a-4bdd-4b91-a737-b12811c4c95b",2,58,"male","complete",374,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",1
+"745","86aaab38-ecee-44c9-83ad-0bb994b3f19e",17,41,"female","complete",211,"hub","2019 Q4","Dec 2019",1,"117392",1,0,0,"1 week",1,"st stephens",0,"4. 20-45",1
+"746","e96dd9dd-4fda-4825-b26a-7badbe854d77",NA,34,"female","complete",266,"hub","2019 Q4","Dec 2019",1,"dl1050",0,1,0,NA,NA,"sir ganga ram",0,"4. 20-45",1
+"747","c5e5fe53-cc80-463a-82e7-902608ec9081",18,25,"female","complete",265,"hub","2019 Q4","Dec 2019",1,"400026",1,0,0,"2 weeks",2,"vinod karhana",0,"4. 20-45",1
+"748","c5c5602d-110f-4acb-bbc4-152d6986ff35",NA,54,"male","complete",255,"hub","2019 Q4","Dec 2019",1,"117392",0,0,1,NA,NA,"st stephens",1,"5. 46-65",1
+"749","9ca70de4-7d21-48eb-9554-3264697f4169",NA,16,"female","complete",224,"hub","2019 Q4","Dec 2019",1,"117392",0,0,1,NA,NA,"st stephens",0,"3. 16-19",1
+"750","26024671-05ff-4544-bf58-dfd22fa3279e",19,76,"male","complete",271,"hub","2019 Q4","Dec 2019",1,"117392",1,0,1,"1 month",3,"st stephens",1,"6. >65",1
+"751","a13672b3-7b75-4ba2-b2f3-aec639b94df2",12,66,"female","complete",279,"hub","2019 Q4","Dec 2019",1,"117392",0,0,1,"post 1 month",4,"st stephens",0,"6. >65",1
+"752","1beea24f-e3bf-4588-92f8-dc25c6393f01",21,21,"male","complete",324,"hub","2019 Q4","Dec 2019",1,"400026",1,0,0,"2 weeks",2,"vinod karhana",1,"4. 20-45",1
+"753","e4acea64-e768-4849-9db7-cce550dd54cc",NA,17,"female","complete",168,"spoke","2019 Q4","Dec 2019",1,"403676",0,1,0,NA,NA,"sir ganga ram",0,"3. 16-19",1
+"754","b2e881f0-7aa5-4204-a40e-7f0eeabb0203",1,38,"female","complete",349,"hub","2019 Q4","Dec 2019",1,"117392",0,0,1,"post 1 month",4,"st stephens",0,"4. 20-45",1
+"755","491b658a-25f8-462c-a705-586db118b21b",NA,25,"female","complete",291,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"4. 20-45",1
+"756","61469c9d-5590-43f4-ba47-b4d34dbb862f",23,19,"female","complete",358,"hub","2019 Q4","Dec 2019",1,"117392",1,0,0,"1 week",1,"st stephens",0,"3. 16-19",1
+"757","d36c3595-3915-48c9-8457-c153a426772b",15,35,"female","complete",308,"hub","2019 Q4","Dec 2019",1,"117392",1,0,1,"1 month",3,"st stephens",0,"4. 20-45",1
+"758","344d9a57-6305-44cd-b0ea-203ebc45db83",NA,21,"male","complete",278,"spoke","2019 Q4","Dec 2019",1,"541510",1,1,0,NA,NA,"sir ganga ram",1,"4. 20-45",1
+"759","49cbcd79-31ec-40da-982c-03ac94465726",18,23,"male","complete",240,"hub","2019 Q4","Dec 2019",1,"400026",0,0,0,"1 week",1,"vinod karhana",1,"4. 20-45",1
+"760","dee5ad04-f935-4567-aa09-21b390672e45",22,25,"female","complete",307,"hub","2019 Q4","Dec 2019",1,"400026",0,0,1,"2 weeks",2,"vinod karhana",0,"4. 20-45",1
+"761","71f98de8-9c6e-43ea-b60c-b23a68222027",22,30,"female","complete",281,"hub","2019 Q4","Dec 2019",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",0,"4. 20-45",1
+"762","e8be0919-2000-4bd6-916d-c9af2d77dadd",22,42,"male","complete",355,"hub","2019 Q4","Dec 2019",1,"400026",0,0,1,"2 weeks",2,"vinod karhana",1,"4. 20-45",1
+"763","c21e7f9f-c529-4de7-8767-119068541e06",19,38,"male","complete",259,"hub","2019 Q4","Dec 2019",1,"117392",1,0,1,"post 1 month",4,"st stephens",1,"4. 20-45",1
+"764","f86fc9d4-afd4-4a43-9d9b-8a014fb34d94",19,19,"male","complete",222,"hub","2019 Q4","Dec 2019",1,"117392",1,0,0,"1 week",1,"st stephens",1,"3. 16-19",1
+"765","a45f1d7e-517a-44fc-b98f-fb75fe01557d",NA,15,"female","complete",367,"hub","2019 Q4","Dec 2019",1,"dl1050",1,1,1,NA,NA,"sir ganga ram",0,"2. 6-15",1
+"766","4e56df69-8214-4cc5-a433-13240b21ac44",25,24,"female","complete",325,"hub","2019 Q4","Dec 2019",1,"117392",0,0,1,"1 week",1,"st stephens",0,"4. 20-45",1
+"767","39b2d082-1d26-42b1-9455-96d1ff347c7f",16,23,"female","complete",300,"hub","2019 Q4","Dec 2019",1,"400026",1,0,0,"2 weeks",2,"vinod karhana",0,"4. 20-45",1
+"768","16cc7616-04d1-44b5-ba6a-0e9b168085d6",NA,50,"male","complete",247,"hub","2019 Q4","Dec 2019",1,"dl1050",1,1,0,NA,NA,"sir ganga ram",1,"5. 46-65",1
+"769","f28fb70a-d535-42b8-9397-a11dd0405118",NA,31,"male","complete",290,"hub","2019 Q4","Dec 2019",1,"dl1050",0,1,0,NA,NA,"sir ganga ram",1,"4. 20-45",1
+"770","fdb90291-22bb-4b9b-a8b7-274afb8f20ac",16,20,"male","complete",202,"hub","2019 Q4","Dec 2019",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",1,"4. 20-45",1
+"771","b3ae5e55-dce0-409d-a777-7c330ec97bd3",21,53,"male","complete",368,"hub","2019 Q4","Nov 2019",1,"400026",0,0,0,"post 1 month",4,"vinod karhana",1,"5. 46-65",1
+"772","783b4191-fe82-4a50-a006-963d57f76422",23,55,"female","complete",530,"hub","2019 Q4","Nov 2019",1,"400026",1,0,0,"post 1 month",4,"vinod karhana",0,"5. 46-65",1
+"773","0980310d-83bf-4957-be0a-2fc37e3039fb",19,65,"male","complete",343,"hub","2019 Q4","Dec 2019",1,"117392",1,0,1,"post 1 month",4,"st stephens",1,"5. 46-65",1
+"774","db24371d-6422-4ffc-987d-65dabb63d5bf",2,33,"female","complete",348,"hub","2019 Q4","Dec 2019",1,"117392",1,0,1,"post 1 month",4,"st stephens",0,"4. 20-45",1
+"775","76bf6b99-f0ad-4a70-9aad-96720c371734",12,28,"male","lost",157,"hub","2019 Q4","Dec 2019",0,"117392",1,0,0,"1 week",1,"st stephens",1,"4. 20-45",1
+"776","20fa5a13-7670-4c31-8c20-5a1dadc67317",11,70,"female","died",151,"hub","2019 Q4","Dec 2019",0,"117392",1,1,1,"1 month",3,"st stephens",0,"6. >65",1
+"777","30022ab4-9592-4f2a-be97-cec5fdc20da6",21,19,"female","complete",284,"hub","2019 Q4","Dec 2019",1,"400026",0,0,1,"2 weeks",2,"vinod karhana",0,"3. 16-19",1
+"778","0864c287-a114-472f-a927-de2aa4dcf670",18,21,"male","complete",309,"hub","2019 Q4","Dec 2019",1,"400026",1,0,0,"post 1 month",4,"vinod karhana",1,"4. 20-45",1
+"779","b239197d-0323-4e42-89d9-e5698701fd9b",NA,67,"female","complete",283,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,NA,NA,"sir ganga ram",0,"6. >65",1
+"780","974ee992-f940-40cc-9a06-a79ec49d33a7",10,56,"male","complete",207,"hub","2019 Q4","Dec 2019",1,"117392",0,0,1,"post 1 month",4,"st stephens",1,"5. 46-65",1
+"781","b6f3469d-e392-4707-a93c-d3f50fbfa7ff",1,32,"male","complete",340,"hub","2019 Q4","Dec 2019",1,"117392",0,0,1,"post 1 month",4,"st stephens",1,"4. 20-45",1
+"782","3c25d9d8-2f4f-4b84-9b7c-d20516e6594d",NA,26,"female","complete",269,"hub","2019 Q4","Dec 2019",1,"117392",0,0,1,NA,NA,"st stephens",0,"4. 20-45",1
+"783","0c05c752-216b-4aa0-895b-898d38938cdb",18,53,"male","complete",257,"hub","2019 Q4","Dec 2019",1,"117392",0,0,1,"1 month",3,"st stephens",1,"5. 46-65",1
+"784","4b271e26-bb0d-44d9-b35d-d8389b335eb4",12,29,"male","complete",193,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,1,"post 1 month",4,"sir ganga ram",1,"4. 20-45",1
+"785","b2ec6bc3-7084-4e71-9b51-9ba938ddb023",27,30,"male","complete",448,"hub","2019 Q4","Dec 2019",1,"400026",1,0,0,"1 month",3,"vinod karhana",1,"4. 20-45",1
+"786","bbe5c2ec-f603-4c83-841c-ba443ffa1c38",10,65,"male","complete",277,"hub","2019 Q4","Dec 2019",1,"dl1050",0,0,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",1
+"787","da173cc3-b67b-4e19-8a85-2de019fb6524",12,20,"female","complete",198,"hub","2019 Q4","Dec 2019",1,"117392",1,0,1,"post 1 month",4,"st stephens",0,"4. 20-45",1
+"788","231eda2c-94a7-4b6e-a00b-6afd2ed816aa",17,22,"male","complete",244,"hub","2019 Q4","Dec 2019",1,"117392",0,0,0,"1 week",1,"st stephens",1,"4. 20-45",1
+"789","14fd582a-4e7f-4ab7-be99-cb8f83d44fa2",17,35,"male","complete",210,"spoke","2019 Q4","Dec 2019",1,"405809",1,0,1,"2 weeks",2,"st stephens",1,"4. 20-45",1
+"790","455d7d6c-7f8a-43fb-8bbc-a5a68f6a6769",12,41,"male","complete",185,"hub","2019 Q4","Dec 2019",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",1
+"791","79a37e68-2ad7-4b4e-98ce-1c2c3a1355ff",16,17,"male","complete",182,"hub","2019 Q4","Dec 2019",1,"117392",1,1,0,"1 week",1,"st stephens",1,"3. 16-19",1
+"792","20cd7ebe-aa6d-4814-aabc-765d7e1eb579",14,39,"female","complete",194,"hub","2019 Q4","Dec 2019",1,"dl1050",0,1,1,"1 month",3,"sir ganga ram",0,"4. 20-45",1
+"793","7e28ed83-06c1-4d5f-811f-a9ae0c5c7642",19,35,"male","complete",238,"hub","2019 Q4","Dec 2019",1,"117392",1,0,0,"2 weeks",2,"st stephens",1,"4. 20-45",1
+"794","4db8f79f-0f3f-4975-9842-d78f85f4f61d",18,12,"male","complete",213,"hub","2019 Q4","Dec 2019",1,"117392",1,1,0,"1 week",1,"st stephens",1,"2. 6-15",1
+"795","31e26e8c-1931-4a9e-bb19-e9fe35bd9674",15,16,"male","complete",279,"hub","2019 Q4","Dec 2019",1,"dl1050",1,1,0,"1 month",3,"sir ganga ram",1,"3. 16-19",1
+"796","99beccf2-6885-4e76-8804-070b72f439af",21,21,"male","complete",310,"hub","2019 Q4","Dec 2019",1,"117392",1,0,0,"2 weeks",2,"st stephens",1,"4. 20-45",1
+"797","f37397c2-1617-41fb-bd0e-a5570047826b",13,50,"male","complete",374,"hub","2019 Q4","Dec 2019",1,"dl1050",1,1,0,"post 1 month",4,"sir ganga ram",1,"5. 46-65",1
+"798","04917315-7d9a-41fe-b90a-55fe8052840b",16,36,"male","complete",322,"hub","2019 Q4","Dec 2019",1,"dl1050",0,1,0,"1 month",3,"sir ganga ram",1,"4. 20-45",1
+"799","49ba34db-df7a-42a3-8e4c-32e37b487d2e",16,45,"male","lost",124,"hub","2019 Q4","Dec 2019",0,"117392",1,0,0,"1 week",1,"st stephens",1,"4. 20-45",1
+"800","3268c9e1-a745-4294-ac05-0282eede8e05",25,23,"female","complete",437,"hub","2019 Q4","Dec 2019",1,"400026",0,0,0,"1 week",1,"vinod karhana",0,"4. 20-45",1
+"801","cef04d24-dc72-4f29-bf9b-040a51d9bdb2",NA,43,"female","complete",188,"hub","2020 Q1","Jan 2020",1,"117392",1,0,1,NA,NA,"st stephens",0,"4. 20-45",1
+"802","0d54f7cd-3f6a-4453-bd48-10763c8c4e20",5,65,"male","died",41,"hub","2019 Q4","Dec 2019",0,"117392",0,0,1,"2 weeks",2,"st stephens",1,"5. 46-65",1
+"803","e4775e30-9a38-409c-9249-f9813dd4f680",17,42,"male","complete",172,"hub","2020 Q1","Jan 2020",1,"117392",0,1,1,"1 week",1,"st stephens",1,"4. 20-45",1
+"804","b6e41a8c-217a-48af-937c-361795e7c2cd",18,36,"female","complete",356,"hub","2019 Q4","Dec 2019",1,"dl1050",1,1,0,"1 month",3,"sir ganga ram",0,"4. 20-45",1
+"805","4110b972-d0ce-468a-b324-ced146a7525b",17,9,"female","complete",215,"hub","2019 Q4","Dec 2019",1,"117392",1,0,0,"1 month",3,"st stephens",0,"2. 6-15",1
+"806","46d9c02a-5130-421a-802d-8b48d3dd73af",14,27,"male","complete",219,"hub","2020 Q1","Jan 2020",1,"400026",0,0,0,"1 month",3,"vinod karhana",1,"4. 20-45",1
+"807","f9462ff4-de35-4de7-9a5e-59f4afa961cd",17,6,"male","complete",177,"hub","2019 Q4","Dec 2019",1,"117392",1,1,0,"1 week",1,"st stephens",1,"2. 6-15",1
+"808","2d44c369-8e7c-4410-aa58-52f7187d23e3",18,6,"male","complete",203,"hub","2020 Q1","Jan 2020",1,"117392",1,1,0,"1 week",1,"st stephens",1,"2. 6-15",1
+"809","ec49e877-1d20-4167-9ea8-73970722949f",18,26,"male","complete",274,"hub","2019 Q4","Dec 2019",1,"dl1050",1,1,0,"post 1 month",4,"sir ganga ram",1,"4. 20-45",1
+"810","6fbb5803-3d6a-4739-894d-b8b725fe7888",NA,48,"female","complete",195,"hub","2020 Q1","Jan 2020",1,"117392",1,1,1,NA,NA,"st stephens",0,"5. 46-65",1
+"811","ba3f5143-59f0-4c69-a354-64d8aa04c30a",NA,17,"male","complete",300,"hub","2020 Q1","Jan 2020",1,"117392",1,1,1,NA,NA,"st stephens",1,"3. 16-19",1
+"812","1ece7178-05c2-486c-8406-af909693610e",15,33,"female","complete",224,"hub","2019 Q4","Nov 2019",1,"117392",0,0,0,"post 1 month",4,"st stephens",0,"4. 20-45",1
+"813","84f146d9-0ce9-4b27-bc99-9e5dfdb98c5e",2,47,"female","died",171,"hub","2020 Q1","Feb 2020",0,"117392",1,0,1,"1 week",1,"st stephens",0,"5. 46-65",1
+"814","5bc6661f-0181-4299-a777-1e20479b18a5",18,21,"female","complete",382,"hub","2019 Q4","Dec 2019",1,"128367",1,0,0,"post 1 month",4,"sir ganga ram",0,"4. 20-45",1
+"815","991df84c-ad00-4a81-a124-30524f1cb40e",23,8,"male","complete",342,"hub","2019 Q4","Dec 2019",1,"128367",1,1,0,"1 week",1,"sir ganga ram",1,"2. 6-15",1
+"816","82395878-be48-4c99-be97-e74e209a2f54",19,28,"female","complete",294,"hub","2020 Q1","Jan 2020",1,"dl1050",1,1,0,"1 week",1,"sir ganga ram",0,"4. 20-45",1
+"817","5d7e7714-e7e3-44e2-b504-398de6e8b4ec",19,21,"male","complete",329,"hub","2020 Q1","Jan 2020",1,"400026",0,0,1,"2 weeks",2,"vinod karhana",1,"4. 20-45",1
+"818","88e33cfb-1cdc-4b3e-9242-afd504291218",3,55,"male","died",27,"hub","2020 Q1","Jan 2020",0,"400026",0,0,1,"1 month",3,"vinod karhana",1,"5. 46-65",1
+"819","48c5aafd-3a83-43a4-9108-0f8206e15740",11,33,"male","complete",261,"hub","2020 Q1","Jan 2020",1,"400026",0,0,0,"1 month",3,"vinod karhana",1,"4. 20-45",1
+"820","11282abf-2c5e-4580-98bd-2d9e742adaef",16,13,"male","complete",193,"hub","2019 Q4","Dec 2019",1,"117392",0,0,1,"2 weeks",2,"st stephens",1,"2. 6-15",1
+"821","e4b2b61a-df68-44a7-8a18-5c75c7114d5d",NA,20,"male","complete",187,"hub","2020 Q1","Jan 2020",1,"117392",0,0,1,NA,NA,"st stephens",1,"4. 20-45",1
+"822","9e9060f6-9365-477f-a364-5adc4d450be0",14,31,"male","complete",185,"hub","2020 Q1","Jan 2020",1,"400026",0,0,0,"1 month",3,"vinod karhana",1,"4. 20-45",1
+"823","f20ee005-8e67-40bd-afb2-8b2b737d092b",19,65,"male","complete",242,"hub","2020 Q1","Jan 2020",1,"400026",0,0,0,"1 month",3,"vinod karhana",1,"5. 46-65",1
+"824","284ba4b4-e4af-4379-9d81-e27fb590ea0d",17,42,"female","complete",286,"hub","2020 Q1","Jan 2020",1,"dl1050",1,1,0,"1 month",3,"sir ganga ram",0,"4. 20-45",1
+"825","3a6001d0-9e84-4b2c-8bbf-eaeeb954e117",12,23,"female","complete",259,"hub","2020 Q1","Jan 2020",1,"400026",0,0,0,"1 week",1,"vinod karhana",0,"4. 20-45",1
+"826","62b26c90-5038-4676-bd61-fcff0c2f417b",18,45,"male","complete",220,"hub","2020 Q1","Jan 2020",1,"117392",0,0,1,"1 week",1,"st stephens",1,"4. 20-45",1
+"827","624107e9-e0e9-42a7-8923-e2b198de02e3",22,35,"female","complete",257,"hub","2020 Q1","Jan 2020",1,"400026",0,0,0,"1 week",1,"vinod karhana",0,"4. 20-45",1
+"828","4f15754f-d304-488f-a627-d8e26a8c04d8",12,50,"male","complete",191,"hub","2019 Q4","Dec 2019",1,"117392",0,0,1,"post 1 month",4,"st stephens",1,"5. 46-65",1
+"829","8f3a7906-bfc1-4d72-8a1f-1686ca0280b4",21,24,"male","complete",257,"hub","2020 Q1","Jan 2020",1,"117392",1,0,1,"1 week",1,"st stephens",1,"4. 20-45",1
+"830","751f64ed-b8a5-414a-b089-be8a02bfc887",18,18,"female","complete",278,"hub","2020 Q1","Jan 2020",1,"117392",1,0,1,"1 week",1,"st stephens",0,"3. 16-19",1
+"831","8c1a4152-f99b-4131-9e17-2e4f4ea43a83",19,22,"male","complete",399,"hub","2020 Q1","Jan 2020",1,"117392",1,1,0,"1 week",1,"st stephens",1,"4. 20-45",1
+"832","82421bf5-b3fb-47a5-a4f7-4adfcd427819",19,5,"female","complete",280,"hub","2020 Q1","Jan 2020",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",0,"1. 0-5",1
+"833","a836957f-49fa-427d-bc55-601b18c9d264",15,19,"female","complete",181,"hub","2020 Q1","Jan 2020",1,"117392",0,1,0,"1 week",1,"st stephens",0,"3. 16-19",1
+"834","41ec41cf-9161-45c7-a6a7-54589edf4fd7",22,17,"female","complete",329,"hub","2020 Q1","Jan 2020",1,"117392",0,0,1,"1 week",1,"st stephens",0,"3. 16-19",1
+"835","ca79a7d2-0601-4896-8c70-f43aec8eec5b",21,20,"female","complete",252,"hub","2020 Q1","Jan 2020",1,"117392",1,0,1,"1 week",1,"st stephens",0,"4. 20-45",1
+"836","b3ece2f2-bbd4-4e6a-8b15-84f1da8d8e44",1,30,"female","complete",315,"hub","2020 Q1","Jan 2020",1,"117392",0,0,1,"post 1 month",4,"st stephens",0,"4. 20-45",1
+"837","32cba75c-55db-4d5d-be46-d5216ade946f",25,33,"female","complete",386,"hub","2020 Q1","Jan 2020",1,"400026",1,0,0,"1 week",1,"vinod karhana",0,"4. 20-45",1
+"838","64af3ec3-2b8b-43b9-94d1-22bc2f05f40d",21,38,"male","complete",311,"hub","2020 Q1","Jan 2020",1,"400026",0,0,1,"1 week",1,"vinod karhana",1,"4. 20-45",1
+"839","62b4e868-afd3-4639-821f-26f79b30c069",19,23,"female","complete",548,"hub","2020 Q1","Jan 2020",1,"dl1050",1,1,0,"2 weeks",2,"sir ganga ram",0,"4. 20-45",1
+"840","486c7dcc-1a71-426a-bccd-14602c7d7faa",18,45,"male","complete",396,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"1 month",3,"sir ganga ram",1,"4. 20-45",1
+"841","da434e2d-cb64-4fb7-b9ce-6a38055ca32f",20,55,"male","complete",240,"hub","2020 Q1","Jan 2020",1,"117392",1,0,1,"1 week",1,"st stephens",1,"5. 46-65",1
+"842","64884cdc-d45f-4d99-b2a9-ba56dfc02ac2",16,25,"female","complete",171,"hub","2020 Q1","Jan 2020",1,"117392",1,0,1,"1 week",1,"st stephens",0,"4. 20-45",1
+"843","bdb7c91f-0bac-41fa-87d1-11bc190d0e96",16,57,"male","complete",169,"hub","2020 Q1","Jan 2020",1,"117392",0,0,1,"1 week",1,"st stephens",1,"5. 46-65",1
+"844","752c9887-241f-4d2e-a888-7d060c876fab",NA,60,"male","complete",241,"hub","2020 Q1","Jan 2020",1,"117392",1,0,1,NA,NA,"st stephens",1,"5. 46-65",1
+"845","0bef2307-ccfa-4745-ba4d-a208968e708d",10,27,"male","died",129,"hub","2020 Q1","Jan 2020",0,"400026",1,0,0,"2 weeks",2,"vinod karhana",1,"4. 20-45",1
+"846","22e5c300-ef36-49f3-8dee-12a3d35326da",18,36,"male","complete",253,"hub","2020 Q1","Jan 2020",1,"400026",0,0,0,"1 week",1,"vinod karhana",1,"4. 20-45",1
+"847","cf9ded77-1dba-4e11-a340-2140ee28f170",8,12,"female","complete",283,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"post 1 month",4,"sir ganga ram",0,"2. 6-15",1
+"848","1a95608f-fa44-497f-8938-4c7c91bb9d29",3,45,"male","complete",325,"hub","2020 Q1","Jan 2020",1,"117392",0,0,1,"post 1 month",4,"st stephens",1,"4. 20-45",1
+"849","3f567768-c4b5-488f-bd4b-c87c5eae96cf",20,32,"female","complete",291,"hub","2020 Q1","Jan 2020",1,"117392",1,1,0,"1 week",1,"st stephens",0,"4. 20-45",1
+"850","d6e6a1cf-b61c-4839-907c-ea6d71abc670",20,70,"female","complete",251,"hub","2020 Q1","Jan 2020",1,"117392",1,0,1,"2 weeks",2,"st stephens",0,"6. >65",1
+"851","2a6d4e13-4f63-4051-88a6-d6c223576bbf",4,19,"female","complete",340,"hub","2020 Q1","Jan 2020",1,"dl1050",0,1,1,"post 1 month",4,"sir ganga ram",0,"3. 16-19",1
+"852","d56718ef-dd73-4262-8cad-a03ae984a4f2",3,17,"female","complete",327,"hub","2020 Q1","Jan 2020",1,"117392",0,0,1,"post 1 month",4,"st stephens",0,"3. 16-19",1
+"853","e63b93b6-a449-4324-9c09-f59efd768168",22,61,"male","complete",330,"hub","2020 Q1","Jan 2020",1,"117392",0,0,1,"1 week",1,"st stephens",1,"5. 46-65",1
+"854","a467b94d-72c6-4719-b00e-2672f2948a75",26,31,"male","complete",365,"hub","2020 Q1","Jan 2020",1,"117392",1,0,0,"1 week",1,"st stephens",1,"4. 20-45",1
+"855","56fc4e0f-2c04-4abf-b1e9-8694ae94da9f",13,56,"male","complete",331,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"1 week",1,"sir ganga ram",1,"5. 46-65",1
+"856","8f240de5-e832-4e6f-aa9a-d391b3bc4de8",6,38,"female","complete",193,"hub","2020 Q1","Jan 2020",1,"400026",0,0,0,"1 week",1,"vinod karhana",0,"4. 20-45",1
+"857","41fcc5d8-f7bc-4bed-bca0-d32591c19ad2",18,60,"female","complete",324,"hub","2020 Q1","Jan 2020",1,"400026",0,0,1,"1 week",1,"vinod karhana",0,"5. 46-65",1
+"858","33cf02c6-25cb-49a4-be5a-54638b515547",1,60,"female","died",10,"hub","2020 Q1","Jan 2020",0,"117392",0,0,1,"2 weeks",2,"st stephens",0,"5. 46-65",1
+"859","29da9f38-cbd5-4d6d-b775-5d87ed642cac",15,17,"male","complete",273,"hub","2020 Q1","Jan 2020",1,"dl1050",0,1,1,"1 week",1,"sir ganga ram",1,"3. 16-19",1
+"860","0e34e2fb-dc51-42dc-af54-e453b8d76a4f",20,57,"male","complete",258,"hub","2020 Q1","Jan 2020",1,"dl1050",0,0,0,"2 weeks",2,"sir ganga ram",1,"5. 46-65",1
+"861","21fa9fe6-bc93-4a9b-a328-82e5b541bd43",NA,52,"male","complete",219,"hub","2020 Q1","Jan 2020",1,"117392",0,1,1,NA,NA,"st stephens",1,"5. 46-65",1
+"862","a9ef257f-bd5f-4e85-9e03-075092437f92",13,24,"female","complete",242,"hub","2020 Q1","Jan 2020",1,"dl1050",0,1,1,"1 week",1,"sir ganga ram",0,"4. 20-45",1
+"863","8a3dad8f-369a-4556-b63b-3d2a07143fbe",11,53,"male","complete",409,"hub","2020 Q1","Jan 2020",1,"dl1050",1,1,0,"1 month",3,"sir ganga ram",1,"5. 46-65",1
+"864","fc0e2cb7-c94c-46a6-9195-0c65f2af8cfc",18,25,"male","complete",185,"hub","2020 Q1","Jan 2020",1,"117392",0,0,1,"1 week",1,"st stephens",1,"4. 20-45",1
+"865","be8965c8-4f52-4a3c-9819-311082018864",2,16,"male","complete",307,"hub","2020 Q1","Jan 2020",1,"117392",0,0,1,"post 1 month",4,"st stephens",1,"3. 16-19",1
+"866","8960d39e-69c5-4a7b-9275-61cb00cbf96b",NA,27,"female","complete",215,"hub","2020 Q1","Jan 2020",1,"117392",0,0,1,NA,NA,"st stephens",0,"4. 20-45",1
+"867","95ee2987-6e07-4028-8993-623ac33493ff",8,37,"male","complete",236,"hub","2019 Q4","Nov 2019",1,"117392",0,0,0,"post 1 month",4,"st stephens",1,"4. 20-45",1
+"868","cf37fe7b-6184-4979-acf5-0d8e4e6784e9",22,45,"male","complete",243,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"2 weeks",2,"sir ganga ram",1,"4. 20-45",1
+"869","abc36c1c-d61e-40c4-8567-77cf899456c4",15,40,"female","complete",244,"hub","2020 Q1","Jan 2020",1,"dl1050",0,1,1,"2 weeks",2,"sir ganga ram",0,"4. 20-45",1
+"870","50958098-5d2a-4a0d-adbe-fd717d7de97e",4,16,"female","complete",328,"hub","2020 Q1","Jan 2020",1,"117392",1,0,0,"1 week",1,"st stephens",0,"3. 16-19",1
+"871","fac135b1-0c32-44c6-8e20-3d5114134ba2",19,32,"female","complete",347,"hub","2020 Q1","Jan 2020",1,"dl1050",1,1,0,"1 week",1,"sir ganga ram",0,"4. 20-45",1
+"872","8edc8241-2073-4802-8bf4-9e779d5f9589",11,12,"female","complete",244,"hub","2020 Q1","Jan 2020",1,"400026",1,0,0,"1 week",1,"vinod karhana",0,"2. 6-15",1
+"873","1972f17f-b072-4bba-860d-d5f02cc4b25c",15,22,"male","complete",224,"hub","2020 Q1","Jan 2020",1,"400026",1,0,0,"1 week",1,"vinod karhana",1,"4. 20-45",1
+"874","d26f272a-e146-4e00-805d-17639a78bc90",16,46,"male","complete",283,"hub","2020 Q1","Jan 2020",1,"dl1050",1,1,0,"1 week",1,"sir ganga ram",1,"5. 46-65",1
+"875","5241d2f0-9f18-4575-8887-60b8763491d9",18,24,"female","complete",346,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"1 month",3,"sir ganga ram",0,"4. 20-45",1
+"876","7ab2e21e-5741-4c6a-b6f1-c1372cb5e570",17,10,"male","complete",185,"hub","2020 Q1","Feb 2020",1,"117392",1,1,1,"1 week",1,"st stephens",1,"2. 6-15",1
+"877","fba5dbb6-cba4-4564-9edf-05003e2cda29",22,55,"male","complete",307,"hub","2020 Q1","Jan 2020",1,"117392",0,0,1,"1 week",1,"st stephens",1,"5. 46-65",1
+"878","da7d1939-5689-4954-9ba3-40a9b67da6e7",17,23,"female","complete",226,"hub","2020 Q1","Feb 2020",1,"400026",1,0,0,"1 week",1,"vinod karhana",0,"4. 20-45",1
+"879","f0f3d8de-9e4f-46b9-a754-c708fe43a2c3",19,56,"female","complete",351,"hub","2020 Q1","Feb 2020",1,"dl1050",0,1,1,"1 week",1,"sir ganga ram",0,"5. 46-65",1
+"880","2787f426-1f64-45c2-8ee2-1c32277f3973",16,29,"female","cured",198,"hub","2020 Q1","Feb 2020",1,"dl1050",0,0,0,"1 week",1,"sir ganga ram",0,"4. 20-45",1
+"881","0985edb4-eb57-494f-952a-010147c5343a",25,43,"female","complete",417,"hub","2020 Q1","Feb 2020",1,"dl1050",1,1,0,"1 week",1,"sir ganga ram",0,"4. 20-45",1
+"882","c64ed5a6-fc0e-4c7f-8b73-3da6dd4b93e0",15,14,"male","complete",184,"hub","2020 Q1","Jan 2020",1,"117392",0,0,1,"2 weeks",2,"st stephens",1,"2. 6-15",1
+"883","307fd8ca-494d-4aaa-9a32-3435434ce92f",NA,27,"male","complete",212,"hub","2020 Q1","Feb 2020",1,"117392",0,0,1,NA,NA,"st stephens",1,"4. 20-45",1
+"884","e2c3fa4c-9444-4f3c-886d-3ab95f3267f4",23,13,"female","complete",336,"hub","2020 Q1","Feb 2020",1,"400026",1,0,0,"2 weeks",2,"vinod karhana",0,"2. 6-15",1
+"885","cb8c272b-7e6b-4a93-8a43-b9bb8644c387",11,53,"male","died",77,"hub","2020 Q1","Feb 2020",0,"117392",1,0,1,"1 week",1,"st stephens",1,"5. 46-65",1
+"886","a3001eee-6816-4748-9b1a-85d5dfbaa442",NA,68,"female","complete",196,"hub","2020 Q1","Feb 2020",1,"117392",0,0,1,NA,NA,"st stephens",0,"6. >65",1
+"887","166c18f2-12c5-4b03-b64a-7f94feb98c91",NA,49,"male","complete",206,"hub","2020 Q1","Feb 2020",1,"117392",0,1,1,NA,NA,"st stephens",1,"5. 46-65",1
+"888","ef88dbc0-2b28-4918-90d9-37c70eda8ff6",18,24,"female","complete",275,"spoke","2020 Q1","Feb 2020",1,"403676",0,1,0,"1 month",3,"sir ganga ram",0,"4. 20-45",1
+"889","ff898ae3-a220-4f18-9b15-f3f3afa07060",21,20,"male","complete",556,"hub","2020 Q1","Feb 2020",1,"dl1050",1,1,0,"1 week",1,"sir ganga ram",1,"4. 20-45",1
+"890","5f9222d6-9308-4677-9be2-89dd938ed7d3",3,17,"male","complete",299,"hub","2020 Q1","Feb 2020",1,"117392",0,0,1,"post 1 month",4,"st stephens",1,"3. 16-19",1
+"891","39f3dc5d-2178-48a2-bb78-7003579b7701",18,17,"female","complete",394,"hub","2020 Q1","Feb 2020",1,"400026",1,0,0,"1 week",1,"vinod karhana",0,"3. 16-19",1
+"892","e86b97a4-cabd-4774-808d-3c11a96bfd48",21,20,"female","complete",315,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"1 week",1,"sir ganga ram",0,"4. 20-45",1
+"893","e8004be6-8aab-475b-9b2e-0facfd23fe37",20,23,"male","complete",232,"hub","2020 Q1","Feb 2020",1,"117392",1,0,0,"1 week",1,"st stephens",1,"4. 20-45",1
+"894","13efea1f-a913-4df6-89f9-85ffe2772ed7",NA,67,"male","complete",232,"hub","2020 Q1","Feb 2020",1,"117392",0,0,1,NA,NA,"st stephens",1,"6. >65",1
+"895","7f3a04b5-1853-41c4-b580-ddd80e46740d",19,43,"female","complete",413,"hub","2020 Q1","Feb 2020",1,"400026",1,0,0,"1 week",1,"vinod karhana",0,"4. 20-45",1
+"896","80b8475c-f949-4bc4-82e4-93c24b16ae12",3,44,"male","complete",301,"hub","2020 Q1","Feb 2020",1,"117392",0,0,0,"post 1 month",4,"st stephens",1,"4. 20-45",1
+"897","9c62782e-8ced-4c65-93a6-14bfca71ca22",22,35,"female","complete",304,"hub","2020 Q1","Feb 2020",1,"117392",0,0,1,"1 week",1,"st stephens",0,"4. 20-45",1
+"898","30e022d3-f048-4c8a-8478-6127264c6b71",20,60,"female","complete",223,"hub","2020 Q1","Feb 2020",1,"117392",0,0,1,"1 week",1,"st stephens",0,"5. 46-65",1
+"899","8f8d885a-34c1-4e11-a08b-eaa0d8849296",18,22,"male","complete",311,"hub","2020 Q1","Feb 2020",1,"dl1050",0,1,0,"1 week",1,"sir ganga ram",1,"4. 20-45",1
+"900","9fd355b6-c451-4b5a-b44b-cf00b9643cde",23,48,"female","complete",293,"hub","2020 Q1","Feb 2020",1,"117392",1,0,0,"1 week",1,"st stephens",0,"5. 46-65",1
+"901","0cbf277a-a12f-4d4f-ae4a-d6b1720688b6",25,20,"male","complete",384,"hub","2020 Q1","Feb 2020",1,"dl1050",0,1,1,"1 week",1,"sir ganga ram",1,"4. 20-45",1
+"902","8a68dccc-23df-42f3-8eb3-b317b8ff85b0",19,24,"female","complete",375,"hub","2020 Q1","Feb 2020",1,"dl1050",1,1,0,"2 weeks",2,"sir ganga ram",0,"4. 20-45",1
+"903","dab95cd8-a633-4aee-b9c7-7c7bc6621365",16,48,"male","complete",247,"hub","2020 Q1","Feb 2020",1,"117392",1,1,0,"post 1 month",4,"st stephens",1,"5. 46-65",1
+"904","0f1ef9f7-0782-4a26-8883-7ed951072f5b",16,39,"female","complete",373,"hub","2020 Q1","Feb 2020",1,"dl1050",0,1,0,"1 week",1,"sir ganga ram",0,"4. 20-45",1
+"905","1a74aa55-f6f6-4f86-a26f-3a2c57a21c5e",13,50,"female","lost",274,"hub","2020 Q1","Feb 2020",0,"400026",0,0,0,"1 week",1,"vinod karhana",0,"5. 46-65",1
+"906","6dbd9d31-d7ce-42fb-b2d2-effaed164ee2",17,24,"male","complete",273,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"1 week",1,"sir ganga ram",1,"4. 20-45",1
+"907","7e09be3d-4392-4ec4-bd28-760a1e15387c",3,56,"female","complete",302,"hub","2020 Q1","Feb 2020",1,"117392",0,0,0,"post 1 month",4,"st stephens",0,"5. 46-65",1
+"908","73e51b48-f03a-4143-ba5c-4e39e1c126ef",15,27,"male","complete",228,"hub","2020 Q1","Feb 2020",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",1,"4. 20-45",1
+"909","972b3532-1e7a-48fc-be31-7a8206eb0cea",10,21,"female","complete",282,"hub","2020 Q1","Feb 2020",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",0,"4. 20-45",1
+"910","90b1de1c-06cf-4f34-8332-e750f690aa96",13,30,"male","complete",246,"hub","2020 Q1","Feb 2020",1,"400026",0,0,0,"post 1 month",4,"vinod karhana",1,"4. 20-45",1
+"911","01e1ed75-c90f-4cb6-9139-f91548ddc554",21,29,"female","complete",406,"hub","2020 Q1","Feb 2020",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",0,"4. 20-45",1
+"912","f3336d02-fb9a-42f3-9a37-7b18b4584b1c",12,9,"male","lost",336,"hub","2020 Q1","Feb 2020",0,"dl1050",1,1,0,"1 week",1,"sir ganga ram",1,"2. 6-15",1
+"913","f4fb035f-7e98-4720-890f-9faa231bb1b0",28,45,"male","complete",361,"hub","2020 Q1","Feb 2020",1,"117392",1,0,1,"1 week",1,"st stephens",1,"4. 20-45",1
+"914","4978b39e-e68d-4e0d-b53f-5633a87697ce",20,16,"male","complete",346,"hub","2020 Q1","Feb 2020",1,"400026",0,0,1,"1 week",1,"vinod karhana",1,"3. 16-19",1
+"915","c82ab5fa-be29-44fb-bd7f-5c0af8021fe4",18,42,"female","complete",360,"hub","2020 Q1","Feb 2020",1,"400026",1,0,0,"2 weeks",2,"vinod karhana",0,"4. 20-45",1
+"916","aeac066b-acca-46f1-ac1e-b3f45c23f1ac",21,30,"female","complete",299,"hub","2020 Q1","Feb 2020",1,"117392",1,0,0,"1 month",3,"st stephens",0,"4. 20-45",1
+"917","467b029e-be23-44ff-a5f9-246fb437c119",24,60,"female","complete",368,"hub","2020 Q1","Feb 2020",1,"400026",0,0,0,"1 week",1,"vinod karhana",0,"5. 46-65",1
+"918","69105ed5-347c-4628-bcb2-51e65f8c2d8a",16,47,"female","complete",189,"hub","2020 Q1","Feb 2020",1,"dl1050",0,1,0,"1 week",1,"sir ganga ram",0,"5. 46-65",1
+"919","2cb128f2-8806-4cae-b7ae-f75a922b1c37",6,60,"male","complete",234,"hub","2020 Q1","Feb 2020",1,"117392",0,0,1,"2 weeks",2,"st stephens",1,"5. 46-65",1
+"920","6c720178-67e9-4fb6-8c06-8f3e11a351f4",20,17,"female","complete",357,"hub","2020 Q1","Feb 2020",1,"117392",1,0,0,"post 1 month",4,"st stephens",0,"3. 16-19",1
+"921","1335e32f-462d-4813-9394-3984fc498105",19,61,"male","complete",221,"hub","2020 Q1","Feb 2020",1,"117392",0,0,1,"1 week",1,"st stephens",1,"5. 46-65",1
+"922","e685c184-a996-4e65-a34f-585c6a64eadb",4,16,"male","complete",315,"hub","2020 Q1","Feb 2020",1,"117392",1,0,1,"post 1 month",4,"st stephens",1,"3. 16-19",1
+"923","ed69ecb7-99fa-4572-8ac8-0a2154668c65",19,65,"female","complete",367,"hub","2020 Q1","Feb 2020",1,"400026",0,0,1,"2 weeks",2,"vinod karhana",0,"5. 46-65",1
+"924","a64daf54-f2ac-4477-a0e8-3158206e1ff9",15,20,"male","complete",224,"hub","2020 Q1","Feb 2020",1,"dl1050",0,0,1,"1 week",1,"sir ganga ram",1,"4. 20-45",1
+"925","99df450f-fa53-4060-a71c-ea1ecaa1b0fb",13,22,"male","complete",212,"hub","2020 Q1","Feb 2020",1,"dl1050",1,1,0,"1 month",3,"sir ganga ram",1,"4. 20-45",1
+"926","1ac04f31-d6a7-4598-ab72-7b71f5537015",27,37,"female","complete",367,"hub","2020 Q1","Feb 2020",1,"117392",1,0,0,"1 week",1,"st stephens",0,"4. 20-45",1
+"927","5566d291-cf94-4db5-8954-e2e778a0f3d6",19,33,"female","complete",296,"hub","2020 Q1","Feb 2020",1,"117392",1,0,0,"1 week",1,"st stephens",0,"4. 20-45",1
+"928","1d93fdc0-056c-4047-9b60-a63afc1f4b50",27,40,"female","complete",358,"hub","2020 Q1","Feb 2020",1,"117392",1,0,0,"1 week",1,"st stephens",0,"4. 20-45",1
+"929","8a2b3c9d-17f9-427e-97c0-02d6d25b5fd9",2,17,"male","complete",109,"hub","2020 Q1","Feb 2020",1,"400026",0,0,0,"1 week",1,"vinod karhana",1,"3. 16-19",1
+"930","bfb6a67e-60fd-48d6-b1bd-a5f830191fbb",18,19,"male","complete",214,"hub","2020 Q1","Feb 2020",1,"400026",0,0,1,"1 week",1,"vinod karhana",1,"3. 16-19",1
+"931","52d8acca-a24c-4848-b9ab-d7a19c8b5010",23,34,"female","complete",305,"hub","2020 Q1","Feb 2020",1,"400026",1,0,0,"1 week",1,"vinod karhana",0,"4. 20-45",1
+"932","700b4af3-bfd7-46a8-9836-afc4e07d799e",22,36,"female","complete",280,"hub","2020 Q1","Feb 2020",1,"dl1050",1,1,0,"1 week",1,"sir ganga ram",0,"4. 20-45",1
+"933","1d204a05-d262-4521-9764-a66cac99a91e",19,37,"female","complete",274,"hub","2020 Q1","Feb 2020",1,"117392",0,0,1,"1 week",1,"st stephens",0,"4. 20-45",1
+"934","2bb46a63-883f-431b-abc1-f51c035b4cd7",19,40,"female","complete",295,"hub","2020 Q1","Jan 2020",1,"dl1050",1,0,0,"1 month",3,"sir ganga ram",0,"4. 20-45",1
+"935","238391b3-4283-4968-983f-d38d46570eea",14,18,"female","complete",277,"hub","2020 Q1","Feb 2020",1,"dl1050",0,0,0,"1 month",3,"sir ganga ram",0,"3. 16-19",1
+"936","4aa49419-5241-49d2-b7f6-12b1c85950eb",19,31,"male","complete",250,"hub","2020 Q1","Feb 2020",1,"117392",0,0,0,"1 week",1,"st stephens",1,"4. 20-45",1
+"937","8dd97009-2296-421d-b52c-df0ac3fb929d",15,20,"male","died",259,"hub","2020 Q1","Feb 2020",0,"117392",0,0,0,"1 week",1,"st stephens",1,"4. 20-45",1
+"938","1174a714-4093-44d7-ae74-9346b5cf9f9b",20,32,"male","complete",291,"hub","2020 Q1","Feb 2020",1,"117392",0,0,1,"1 week",1,"st stephens",1,"4. 20-45",1
+"939","4dcc97e9-ce2d-4614-921c-0159c88bc695",20,27,"male","complete",262,"hub","2020 Q1","Feb 2020",1,"117392",0,0,1,"1 week",1,"st stephens",1,"4. 20-45",1
+"940","86535127-5f29-49ab-b5a1-56c119feec3d",9,40,"male","complete",238,"hub","2020 Q1","Mar 2020",1,"117392",1,0,1,"1 week",1,"st stephens",1,"4. 20-45",1
+"941","780bb13d-10fa-46d9-8798-d7b5e3e131bb",19,17,"female","complete",299,"hub","2020 Q1","Feb 2020",1,"117392",1,0,0,"2 weeks",2,"st stephens",0,"3. 16-19",1
+"942","f6d76596-2561-4760-943a-055caefbe256",27,1,"male","complete",367,"hub","2020 Q1","Feb 2020",1,"117392",1,0,0,"1 week",1,"st stephens",1,"1. 0-5",1
+"943","68d16b8c-d32a-4f90-a5f0-b33f881e8c21",22,28,"male","complete",291,"hub","2020 Q1","Feb 2020",1,"117392",1,0,0,"1 week",1,"st stephens",1,"4. 20-45",1
+"944","6d963aab-cd4f-435b-b80f-31a2b7952fae",2,21,"male","complete",276,"hub","2020 Q1","Feb 2020",1,"117392",1,1,0,"post 1 month",4,"st stephens",1,"4. 20-45",1
+"945","c83de09b-ec77-4c99-9f8b-7cf0e2a2db1e",18,17,"female","complete",184,"hub","2020 Q1","Feb 2020",1,"117392",1,0,1,"1 week",1,"st stephens",0,"3. 16-19",1
+"946","8e9e1f1c-3ec6-4578-b4a0-adcf7878c40d",17,42,"male","complete",183,"hub","2020 Q1","Feb 2020",1,"117392",1,0,1,"1 week",1,"st stephens",1,"4. 20-45",1
+"947","55175246-ea3a-43f9-b8f6-41df33107773",15,18,"male","complete",185,"hub","2020 Q1","Feb 2020",1,"117392",1,1,0,"1 month",3,"st stephens",1,"3. 16-19",1
+"948","d6f0b360-0c7d-4ccf-b8ad-8709887a69a7",16,16,"female","complete",191,"hub","2020 Q1","Feb 2020",1,"400026",0,0,1,"2 weeks",2,"vinod karhana",0,"3. 16-19",1
+"949","6cebfe6f-1f9a-4389-95b7-b11596d7f197",18,20,"female","complete",184,"hub","2020 Q1","Mar 2020",1,"117392",0,1,1,"1 week",1,"st stephens",0,"4. 20-45",1
+"950","9cc65952-ca3e-44d7-9a2b-3befc4705f2b",13,24,"female","complete",177,"hub","2020 Q1","Mar 2020",1,"400026",1,0,0,"2 weeks",2,"vinod karhana",0,"4. 20-45",1
+"951","f7d3abd4-6ca9-437f-9d9f-9b1c06e50efb",17,14,"female","complete",206,"hub","2020 Q1","Feb 2020",1,"400026",0,0,0,"1 month",3,"vinod karhana",0,"2. 6-15",1
+"952","a7f083bd-c146-4e38-a91e-2b5b1bbcc8e1",16,40,"male","complete",374,"hub","2020 Q1","Feb 2020",1,"400026",0,0,0,"1 month",3,"vinod karhana",1,"4. 20-45",1
+"953","46bc5c31-ce8f-4746-aeb9-f63fa61b4172",19,61,"male","died",206,"spoke","2020 Q1","Mar 2020",0,"79334",0,0,0,"1 week",1,"sir ganga ram",1,"5. 46-65",1
+"954","591a3ce0-9506-48bd-b397-fda0f9607959",20,32,"male","complete",285,"hub","2020 Q1","Mar 2020",1,"117392",0,0,1,"2 weeks",2,"st stephens",1,"4. 20-45",1
+"955","0cbd5682-e9e2-4d58-a270-5c3ec54d7d60",20,15,"male","complete",362,"hub","2020 Q1","Feb 2020",1,"dl1050",1,1,1,"1 week",1,"sir ganga ram",1,"2. 6-15",1
+"956","c72a0b3b-585f-4922-a995-ba611b6122c2",23,31,"male","complete",379,"hub","2020 Q1","Mar 2020",1,"dl1050",0,0,0,"1 week",1,"sir ganga ram",1,"4. 20-45",1
+"957","7f436d0b-ff29-4853-a801-a7738d79ca07",9,36,"male","complete",260,"hub","2020 Q1","Mar 2020",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",1,"4. 20-45",1
+"958","9099a283-b1ee-4f3e-96cc-b702c4ebadbd",20,38,"female","complete",329,"hub","2020 Q1","Mar 2020",1,"400026",1,0,0,"2 weeks",2,"vinod karhana",0,"4. 20-45",1
+"959","b77fc135-c2bb-40e0-afb7-8be31071c23b",19,83,"male","complete",389,"hub","2020 Q1","Mar 2020",1,"dl1050",0,0,0,"1 week",1,"sir ganga ram",1,"6. >65",1
+"960","17458cdb-4417-481a-9a17-6ed7b3f737ae",18,36,"female","complete",253,"hub","2020 Q1","Mar 2020",1,"117392",0,1,1,"1 week",1,"st stephens",0,"4. 20-45",1
+"961","293f1590-2283-4de8-8940-d717e1b6562e",18,22,"male","complete",334,"hub","2020 Q1","Mar 2020",1,"117392",1,0,1,"2 weeks",2,"st stephens",1,"4. 20-45",1
+"962","f2ac5f3f-4228-4de7-a4d1-742143bc4fa1",17,36,"male","complete",223,"hub","2020 Q1","Mar 2020",1,"117392",1,0,1,"2 weeks",2,"st stephens",1,"4. 20-45",1
+"963","9c194a35-e636-4b20-8aeb-a8202127d888",20,10,"male","complete",295,"hub","2020 Q1","Mar 2020",1,"117392",1,0,1,"2 weeks",2,"st stephens",1,"2. 6-15",1
+"964","e256da30-e82a-447e-a574-4ceb49d4bda2",12,22,"female","complete",128,"hub","2020 Q1","Mar 2020",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",0,"4. 20-45",1
+"965","ea418b4b-8ee6-4f25-83d7-2ce1c04b0b8d",16,9,"male","complete",264,"hub","2020 Q1","Feb 2020",1,"117392",1,0,1,"1 month",3,"st stephens",1,"2. 6-15",1
+"966","47fd7b85-b0cc-49ba-b3ca-922114c4842c",18,21,"female","complete",167,"hub","2020 Q1","Mar 2020",1,"dl1050",1,0,0,"1 week",1,"sir ganga ram",0,"4. 20-45",1
+"967","3e100dc1-9ab9-47bb-af37-1d24f3516388",21,15,"female","complete",315,"hub","2020 Q1","Mar 2020",1,"dl1050",1,1,0,"1 week",1,"sir ganga ram",0,"2. 6-15",1
+"968","db0e3ba6-d296-4b14-b470-7a500cf14c8f",17,25,"female","complete",352,"hub","2020 Q1","Mar 2020",1,"400026",0,0,1,"1 month",3,"vinod karhana",0,"4. 20-45",1
+"969","c65cb6cc-970f-49ba-854b-d16749797e78",19,63,"female","complete",276,"hub","2020 Q1","Mar 2020",1,"dl1050",1,1,0,"1 week",1,"sir ganga ram",0,"5. 46-65",1
+"970","99be8e08-bf9b-4a83-a155-54bdcfa0bf1e",24,19,"male","complete",386,"hub","2020 Q1","Mar 2020",1,"117392",1,0,1,"1 month",3,"st stephens",1,"3. 16-19",1
+"971","6b4f4d3e-5b29-4801-8fe1-a541dc468a49",19,22,"male","complete",279,"hub","2020 Q1","Feb 2020",1,"117392",1,0,1,"1 month",3,"st stephens",1,"4. 20-45",1
+"972","75a841ae-5dd8-49ba-a401-ca227ed6cd38",21,22,"male","complete",329,"hub","2020 Q1","Mar 2020",1,"400026",1,0,0,"1 week",1,"vinod karhana",1,"4. 20-45",1
+"973","113618dc-6c7f-4e2c-a0cc-9c6674db90a6",17,19,"female","complete",216,"hub","2020 Q1","Feb 2020",1,"400026",0,0,0,"1 month",3,"vinod karhana",0,"3. 16-19",1
+"974","ddb29f68-281e-4bf6-9908-2c21e5ebe8de",20,58,"male","complete",268,"spoke","2020 Q1","Mar 2020",1,"400001",0,1,0,"1 week",1,"st stephens",1,"5. 46-65",1
+"975","409daf13-a3a7-428a-8ecd-7398db095ca6",NA,43,"female","complete",285,"hub","2020 Q1","Mar 2020",1,"dl1050",0,1,1,NA,NA,"sir ganga ram",0,"4. 20-45",1
+"976","2204410a-c8c5-46be-944c-36ca1f683e0d",13,18,"male","complete",196,"hub","2020 Q1","Mar 2020",1,"400026",0,0,1,"1 week",1,"vinod karhana",1,"3. 16-19",1
+"977","0e9f4208-5b73-4214-9b46-75b51d020885",10,25,"male","complete",171,"hub","2020 Q1","Mar 2020",1,"400026",1,0,0,"1 week",1,"vinod karhana",1,"4. 20-45",1
+"978","a9113b04-636a-4993-ad4f-2908d2527c24",16,61,"male","complete",165,"hub","2020 Q1","Mar 2020",1,"dl1050",0,1,0,"1 week",1,"sir ganga ram",1,"5. 46-65",1
+"979","fc45ca6e-bbbf-4ff1-8757-971bbc407835",20,18,"female","complete",372,"hub","2020 Q1","Mar 2020",1,"400026",0,0,0,"1 week",1,"vinod karhana",0,"3. 16-19",1
+"980","9c9ea4d3-af7f-4eb3-b848-37cca27a5e12",16,32,"male","complete",231,"hub","2020 Q1","Mar 2020",1,"117392",1,0,1,"1 week",1,"st stephens",1,"4. 20-45",1
+"981","1a485549-357b-4503-95e8-d1c335390638",17,13,"male","complete",214,"hub","2020 Q1","Mar 2020",1,"400026",0,0,0,"2 weeks",2,"vinod karhana",1,"2. 6-15",1
+"982","be5582dc-ccb8-473e-bec1-6d49147c7de8",22,22,"female","complete",282,"hub","2020 Q1","Feb 2020",1,"dl1050",1,1,0,"1 week",1,"sir ganga ram",0,"4. 20-45",1
+"983","e1d7fdc9-982c-40fd-a39e-c1bb94811870",4,43,"female","complete",199,"hub","2020 Q1","Mar 2020",1,"400026",1,0,0,"1 week",1,"vinod karhana",0,"4. 20-45",1
+"984","9a4c44eb-c10f-48e4-85a8-e279652c1bfd",17,16,"male","complete",274,"hub","2020 Q1","Mar 2020",1,"dl1050",0,1,0,"1 week",1,"sir ganga ram",1,"3. 16-19",1
+"985","0d27473d-bc7f-41a4-832f-ba8b5b8debf4",18,23,"female","complete",195,"hub","2020 Q1","Feb 2020",1,"dl1050",1,0,0,"1 week",1,"sir ganga ram",0,"4. 20-45",1
+"986","61d18b78-94a6-4184-bfa7-9a10fe7dc8bf",24,70,"male","complete",334,"hub","2020 Q1","Mar 2020",1,"117392",0,0,1,"2 weeks",2,"st stephens",1,"6. >65",1
+"987","ce3c0ae3-ddae-4437-b687-a475828d2005",14,40,"female","complete",175,"hub","2020 Q1","Mar 2020",1,"117392",1,0,0,"1 week",1,"st stephens",0,"4. 20-45",1
+"988","0410e8d5-b127-4531-9fd5-35666e969736",2,50,"female","died",18,"hub","2020 Q1","Mar 2020",0,"117392",0,0,0,"1 week",1,"st stephens",0,"5. 46-65",1
+"989","18b15d42-d68f-44cf-8501-5d72076fb856",19,28,"female","complete",311,"hub","2020 Q1","Mar 2020",1,"400026",0,0,1,"1 month",3,"vinod karhana",0,"4. 20-45",1
